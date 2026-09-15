@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Seance</title>
+        <item>
+            <title>0.2.7</title>
+            <pubDate>Tue, 15 Sep 2026 20:10:13 +1000</pubDate>
+            <sparkle:version>0.2.7</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.2.7/Seance-0.2.7.dmg" length="51124053" type="application/octet-stream" sparkle:edSignature="ezEzRKdOA4+Vn25UO3mLXopVfubPKAEPuwJgn9okvNfgp7ev8bedEPIuKOSmdvyUbYOT3XfCJNx6kEL0rmnzDw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 0RqJZCavgCOuuZU/t8w9pXxSuvrBFEQSE6m+WOoSc0gffTy9badA4OJpc5tz1GBlQCMDO2L1BZWDzCRb91zDAA==
+length: 1052
+-->
