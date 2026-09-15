@@ -4,15 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.2.9</title>
-            <pubDate>Tue, 15 Sep 2026 20:52:37 +1000</pubDate>
-            <sparkle:version>0.2.9</sparkle:version>
-            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+            <title>0.2.10</title>
+            <pubDate>Wed, 16 Sep 2026 05:26:54 +1000</pubDate>
+            <sparkle:version>0.2.10</sparkle:version>
+            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.2.9/Seance-0.2.9.dmg" length="52025748" type="application/octet-stream" sparkle:edSignature="PKBBdHwJWayMR/K8bSVF8Ivh2t4z71Xd69sWkP2juR7xpkvj8fb4hPRlikO10XKtn04nkBSBGQq3ts6Jd1OJCw=="></enclosure>
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.2.10 — over-the-air update test
+
+Version-only release to test updating from Mac 0.2.9 and iPhone 0.2.9 (52).
+The app functionality is unchanged. Existing projects, chats and pairing should
+remain available after updating.
+
+Mac: use Séance → Check for Updates, then install through the native updater.
+iPhone: open Séance Settings, check for updates, open the offered installer in
+Safari, confirm installation, and reopen Séance. The installed version should
+be 0.2.10 (53).
+]]></description>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.2.10/Seance-0.2.10.dmg" length="51473542" type="application/octet-stream" sparkle:edSignature="ZiV8ffQAgBO5aTU9HuPjBUbVNMWURI49MWDfR9oEDx36Qupev1f52QTwmxFiInOCeENd7pqcu9+G0B9ZfjbSCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YoV+ZEvO3K00lHb0cvnVBvbynH4F1bMBD8PLKYzIThuK2ty8i576evhuALp2uU0wuBy/tZr/cR0PzFeAHT90Bw==
-length: 1052
+edSignature: 4l0Eg0KomB3Xp7ZnS3JuayRneamwtOrbJPisJv0kn6YR7qyMRyMCvJu0FZiDxJGMkmanjYzCIE+vgwt3iC5IAA==
+length: 1628
 -->
