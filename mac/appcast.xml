@@ -4,24 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.2.11</title>
-            <pubDate>Wed, 16 Sep 2026 07:18:00 +1000</pubDate>
-            <sparkle:version>0.2.11</sparkle:version>
-            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+            <title>0.2.20</title>
+            <pubDate>Thu, 24 Sep 2026 07:13:52 +1000</pubDate>
+            <sparkle:version>0.2.20</sparkle:version>
+            <sparkle:shortVersionString>0.2.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.2.11
-
-- Quiet update checks when opening the app, returning to it, entering Settings and while active. Successful checks are limited to once every five minutes.
-- An available update badges Settings and the Updates header on Mac and iPhone. The Mac About tab also indicates availability.
-- Automatic discovery does not open the Mac installer. Downloads and installation remain your choice; manual checks and the automatic-check opt-out remain available.
-- Includes main's latest pin-animation and sidebar-control refinements.
-
-iPhone build: 54. Existing pairing and chats should remain intact after updating.
-]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.2.11/Seance-0.2.11.dmg" length="51457853" type="application/octet-stream" sparkle:edSignature="Uzo1IgoHI1iP3JlGL1ILyASrCOHUfGkOqy5huhNJqddOqa/+Wh1pGRbcC4cWXzD5iRmTRlS09hL10IALaTMQCA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.2.20/Seance-0.2.20.dmg" length="56511289" type="application/octet-stream" sparkle:edSignature="HzgBpZBrWYGj4xMq0l7gMcgImJdbpijQyAlE4wFsUIXzhfBYa1DHw/nqJv+Tc8VaYreHgFw7batc5eE1xvELCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2ToUNda4sH2hCO/9LpfU/ZAPsFnSXOxmjnuyYu25ppDOEeZ06QC7se47Mkb6buG0aMfH1W0SVEy96HanAeIXAQ==
-length: 1756
+edSignature: bHhvI8+4vwX+2POEDstpOLDCWo+tzal4+wLevVQtLLEWnLr39Iqxt7BqM73ESvl5hP4wlN1dTU1AhPJQGV5NCg==
+length: 1057
 -->
