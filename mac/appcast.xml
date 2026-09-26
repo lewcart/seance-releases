@@ -4,15 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.2.20</title>
-            <pubDate>Thu, 24 Sep 2026 07:13:52 +1000</pubDate>
-            <sparkle:version>0.2.20</sparkle:version>
-            <sparkle:shortVersionString>0.2.20</sparkle:shortVersionString>
+            <title>0.2.23</title>
+            <pubDate>Sat, 26 Sep 2026 13:33:04 +1000</pubDate>
+            <sparkle:version>0.2.23</sparkle:version>
+            <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.2.20/Seance-0.2.20.dmg" length="56511289" type="application/octet-stream" sparkle:edSignature="HzgBpZBrWYGj4xMq0l7gMcgImJdbpijQyAlE4wFsUIXzhfBYa1DHw/nqJv+Tc8VaYreHgFw7batc5eE1xvELCQ=="></enclosure>
+            <description sparkle:format="markdown"><![CDATA[Séance 0.2.23 makes new Claude chats available through the native Claude terminal on Mac, iPhone and iPad. Questions and permissions can be answered in Conversation; expired questions can be answered there when Claude's current dialog matches exactly. Stale cards clear after Stop, owner exit or resume. Séance can automatically accept its own development Channel warning, and chat model or effort changes leave Claude's global defaults unchanged. Existing managed chats keep their runtime.
+]]></description>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.2.23/Seance-0.2.23.dmg" length="58270812" type="application/octet-stream" sparkle:edSignature="9FF34+pVZ+A6092FIgbgUc/7uUQoQ8vGua/+g+dJj1i64W23sgo2OWcg0dEFrhoz6LKJMpGHPR6s8nLfC6gPAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bHhvI8+4vwX+2POEDstpOLDCWo+tzal4+wLevVQtLLEWnLr39Iqxt7BqM73ESvl5hP4wlN1dTU1AhPJQGV5NCg==
-length: 1057
+edSignature: QN7a5ttpo/9XX+UdhUmg8zvHyFWG6aGJTV2WGO38QsIVUbgaUA3pispjFrFoZNNgDtzZZqtiyJhFsc3IK3lWDg==
+length: 1628
 -->
