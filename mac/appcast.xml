@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.17</title>
-            <pubDate>Wed, 21 Oct 2026 09:02:45 +1000</pubDate>
-            <sparkle:version>0.3.17</sparkle:version>
-            <sparkle:shortVersionString>0.3.17</sparkle:shortVersionString>
+            <title>0.3.19</title>
+            <pubDate>Wed, 21 Oct 2026 09:15:07 +1000</pubDate>
+            <sparkle:version>0.3.19</sparkle:version>
+            <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.17
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.19
 
-Mac app and host updates, including saved agent accounts and recent sidebar improvements.
+Fixes mobile new-chat account checks when the owning Mac’s helper runs with launchd’s minimal command search path. A signed-in account stays usable from the phone; an unavailable check is reported separately from a signed-out account.
+
+Includes the Mac app and host changes through 0.3.17.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.17/Seance-0.3.17.dmg" length="80958359" type="application/octet-stream" sparkle:edSignature="L02zBvlal+W3T6wjdgIiNyRIVkY1EQFEYFWbpPdNWbDCQjcXNo8H8NRLcvlBHXvB3acA2ygACqq+YYvp/PWLBg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.19/Seance-0.3.19.dmg" length="80950406" type="application/octet-stream" sparkle:edSignature="gTONZmr1jkEHNaOQuAexM+mNeqKwaVAtJw/+ZRGZi3rj5YkraD6vm1Sunu6rztYGOz0cJg7u1iA0DBY+z/dvAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: eCI3eKcqEvwiYmTLgVQDkHVfUl/dkqsAxys/m0XZiUlRmCTuVNxFGv3SIFxDftkJY7hh9QbwI3URAOkSabk1BQ==
-length: 1243
+edSignature: YgqyClNJTBpfESaUpXWCfeTlyczgT27WgAZ4qVDjKy9E6S1LsQ8h0HCL/z8OIPvqKS9H84LfTSWp4qW75sNVBA==
+length: 1447
 -->
