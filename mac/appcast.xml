@@ -4,23 +4,31 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.26</title>
-            <pubDate>Wed, 21 Oct 2026 19:42:34 +1000</pubDate>
-            <sparkle:version>0.3.26</sparkle:version>
-            <sparkle:shortVersionString>0.3.26</sparkle:shortVersionString>
+            <title>0.3.28</title>
+            <pubDate>Thu, 22 Oct 2026 06:25:48 +1000</pubDate>
+            <sparkle:version>0.3.28</sparkle:version>
+            <sparkle:shortVersionString>0.3.28</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.26
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.28
 
-Accounts settings reliably discovers installed Claude and Codex commands when Séance opens from Finder or the Dock.
+Settings has been rebuilt as a classic Mac preferences window: General, Appearance, Terminal, Agents, Devices, Privacy and Shortcuts. Changes apply as you make them. Accounts and New Chat commands share one list in Agents, and this Mac, your other computers and paired devices share one list in Devices. Shortcuts can be searched and show any clashes. About Séance is in the Séance menu.
 
-Compact account rows show Connected or a direct Sign In action. Editing and terminal commands are in each account’s menu. A shared provider error appears once, and the refresh button checks every account again.
+Devices you pair now get full access by default, including every project's files and projects you add later. You can turn any of it off when approving the device or later in Settings › Devices.
 
-Existing accounts, login modes, terminal commands and credentials are retained.
+You can edit text and code files from the Files explorer, with automatic saving.
+
+Terminals from your other Macs now fit the window: nothing is cut off at the right or bottom, and text no longer wraps into a mess when you start typing.
+
+A chat's terminal is used on one screen at a time. Other screens keep the last picture they showed, softly blurred, with a Use Here button that brings the terminal across.
+
+Séance now sets the terminal's look itself on every Mac (theme, font size and padding) instead of reading a separate Ghostty configuration file.
+
+Chat details are more compact, and a signed-out account can be reconnected from a chat's details.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.26/Seance-0.3.26.dmg" length="81551073" type="application/octet-stream" sparkle:edSignature="EP41MU+LGwYJdI4VOF6LY9KoU5Do+eYd90nQsLW0I6p7qujLr8+0Wpd+P1Bhr5CvldWIP5Orj2pfa44m41q1BA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.28/Seance-0.3.28.dmg" length="83291743" type="application/octet-stream" sparkle:edSignature="qH+6XUpk+GC3lbeGNDv43x5OzB9iX90+IHsEcuQmuWNa/yddLJQOKTqE3CYPV8rxSzhLP7pGwWCGOm+gTr6CCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: fgqg+7BLXbfWRx63O9bhYzEhfy/t6miLv4wfcsynv760vM5BHd4xwvxoSmA2RBgdkKtZmFsPTHc3hqS2M49CDg==
-length: 1565
+edSignature: 3StrXNJdKfVj84VCYOMSEtm/L4MKg29BI30ChNgwem/JdF+RYg+dpG7L+cELZnIBFJAI9vUEUlRQLJSaWU5MBg==
+length: 2396
 -->
