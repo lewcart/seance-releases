@@ -4,31 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.28</title>
-            <pubDate>Thu, 22 Oct 2026 06:25:48 +1000</pubDate>
-            <sparkle:version>0.3.28</sparkle:version>
-            <sparkle:shortVersionString>0.3.28</sparkle:shortVersionString>
+            <title>0.3.29</title>
+            <pubDate>Thu, 22 Oct 2026 06:27:48 +1000</pubDate>
+            <sparkle:version>0.3.29</sparkle:version>
+            <sparkle:shortVersionString>0.3.29</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.28
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.29
 
-Settings has been rebuilt as a classic Mac preferences window: General, Appearance, Terminal, Agents, Devices, Privacy and Shortcuts. Changes apply as you make them. Accounts and New Chat commands share one list in Agents, and this Mac, your other computers and paired devices share one list in Devices. Shortcuts can be searched and show any clashes. About Séance is in the Séance menu.
+Phones and iPads now take turns with your Macs the same way Macs do with each other. Switching to Terminal on the phone brings the chat's terminal there; the Mac, and any other screen showing it, keeps its last picture softly blurred with a Use Here button. Clicking or typing on the Mac no longer pulls the terminal back from the phone, and typing on a covered phone goes nowhere.
 
-Devices you pair now get full access by default, including every project's files and projects you add later. You can turn any of it off when approving the device or later in Settings › Devices.
+On iPhone and iPad, a terminal taken over from a Mac now fills the screen. Before, it was pushed to the left with its first columns cut off.
 
-You can edit text and code files from the Files explorer, with automatic saving.
-
-Terminals from your other Macs now fit the window: nothing is cut off at the right or bottom, and text no longer wraps into a mess when you start typing.
-
-A chat's terminal is used on one screen at a time. Other screens keep the last picture they showed, softly blurred, with a Use Here button that brings the terminal across.
-
-Séance now sets the terminal's look itself on every Mac (theme, font size and padding) instead of reading a separate Ghostty configuration file.
-
-Chat details are more compact, and a signed-out account can be reconnected from a chat's details.
+After the phone comes back from the background, its terminal returns to the phone's own size instead of staying a couple of rows short.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.28/Seance-0.3.28.dmg" length="83291743" type="application/octet-stream" sparkle:edSignature="qH+6XUpk+GC3lbeGNDv43x5OzB9iX90+IHsEcuQmuWNa/yddLJQOKTqE3CYPV8rxSzhLP7pGwWCGOm+gTr6CCg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.29/Seance-0.3.29.dmg" length="83292125" type="application/octet-stream" sparkle:edSignature="okS78AX0MTXBqZY1R+O2CWAMwxOneht3wz/urJeSre1Ti72KutYVmg7O6v5kwOyzHeUuFD+mUoB9RgMCVKHICA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3StrXNJdKfVj84VCYOMSEtm/L4MKg29BI30ChNgwem/JdF+RYg+dpG7L+cELZnIBFJAI9vUEUlRQLJSaWU5MBg==
-length: 2396
+edSignature: n/XwF4BzvWQl8l8BWXpv7XCWzwodF0DoKj14zu12So615DoR7nUeFKAKY928YVyHVTr9JNyyPVW2+S/MJg3mBg==
+length: 1814
 -->
