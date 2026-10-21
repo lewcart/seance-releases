@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.23</title>
-            <pubDate>Wed, 21 Oct 2026 13:23:16 +1000</pubDate>
-            <sparkle:version>0.3.23</sparkle:version>
-            <sparkle:shortVersionString>0.3.23</sparkle:shortVersionString>
+            <title>0.3.24</title>
+            <pubDate>Wed, 21 Oct 2026 14:18:59 +1000</pubDate>
+            <sparkle:version>0.3.24</sparkle:version>
+            <sparkle:shortVersionString>0.3.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.23
+            <description sparkle:format="markdown"><![CDATA[Connected Mac chats now open in Terminal. Project and toolbar menus offer direct Terminal, Claude and Codex choices using the owning computer’s accounts; New Tab and its shortcut work on connected projects.
 
-Compact, left-aligned chat headers show account, branch and worktree context. Inspect other worktrees without switching the chat. Tap a chat title to copy its name and Séance chat ID.
+Codex question replies work in Mac conversation view and with older phone clients. Answered question forms clear so the normal composer can return.
 
-Includes recent Settings window and per-computer pin improvements. Companion mobile build 91 adds the same headers and fixes composer spacing, project counts and closed chats left in Pinned; its Install card is shared separately.
+Includes the current compact headers, worktree inventory, owning-computer pins and Settings reopening repair.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.23/Seance-0.3.23.dmg" length="81358094" type="application/octet-stream" sparkle:edSignature="W7f0Wz8k14jm1vX1NvBn6OfBsuan+wgNRRusd0BmObx4Z4yru5wVV4mBuDqBroRr76+nQ2urhQN6XmU9OLZdDA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.24/Seance-0.3.24.dmg" length="81481981" type="application/octet-stream" sparkle:edSignature="v4r/xVkJj8t0g3sxKJh0a7cIgjQe6hCgxLk9N6BJnwXw1W0bbOjKllnujA5+UUrgt0/psVS7cn+NeIENzTeMBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Gor+qjTYFQ9Ww7yG3hqpArl1m4IIfvBpKEagHoUoCpda089k0Vfs4DytPXBmLgYA5+md8MdcYjXMM4SaiSk0Dg==
-length: 1569
+edSignature: 0RjYsMRY/rXrSB1atqoT4kZxQJ7Rfp6r1DKz8H1JrmZ7+3BCPSBsAbVuAUbV4WkFZCifR0Y1PYnPbtHVsDKEAw==
+length: 1604
 -->
