@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.24</title>
-            <pubDate>Wed, 21 Oct 2026 14:18:59 +1000</pubDate>
-            <sparkle:version>0.3.24</sparkle:version>
-            <sparkle:shortVersionString>0.3.24</sparkle:shortVersionString>
+            <title>0.3.25</title>
+            <pubDate>Wed, 21 Oct 2026 19:02:01 +1000</pubDate>
+            <sparkle:version>0.3.25</sparkle:version>
+            <sparkle:shortVersionString>0.3.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Connected Mac chats now open in Terminal. Project and toolbar menus offer direct Terminal, Claude and Codex choices using the owning computer’s accounts; New Tab and its shortcut work on connected projects.
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.25
 
-Codex question replies work in Mac conversation view and with older phone clients. Answered question forms clear so the normal composer can return.
+Claude subscription sign-in now opens its browser flow correctly. Sign-in prompts, errors and the fallback link remain visible; subscription tokens are withheld from terminal scrollback and saved to the selected account’s Keychain entry.
 
-Includes the current compact headers, worktree inventory, owning-computer pins and Settings reopening repair.
+Existing Personal, Work and Shared accounts keep their current configuration.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.24/Seance-0.3.24.dmg" length="81481981" type="application/octet-stream" sparkle:edSignature="v4r/xVkJj8t0g3sxKJh0a7cIgjQe6hCgxLk9N6BJnwXw1W0bbOjKllnujA5+UUrgt0/psVS7cn+NeIENzTeMBg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.25/Seance-0.3.25.dmg" length="81537849" type="application/octet-stream" sparkle:edSignature="XcFPqRC8SLtWNtKhaOJUTq2qy6Jy6G7NkANpfg1cmGjjqVPWq0kwDheQpSz1L+5iDfNOeQjoTS4mgaCpolbhDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0RjYsMRY/rXrSB1atqoT4kZxQJ7Rfp6r1DKz8H1JrmZ7+3BCPSBsAbVuAUbV4WkFZCifR0Y1PYnPbtHVsDKEAw==
-length: 1604
+edSignature: E760KC8ROt5zhUrHK/FJ/VojIpXeSPqq9UBbfICw2gjhDtKtI+pG9t/ql1t1PHbuxy4e7lMjkp6/tZd//NceAA==
+length: 1472
 -->
