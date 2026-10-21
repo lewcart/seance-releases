@@ -4,21 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.19</title>
-            <pubDate>Wed, 21 Oct 2026 09:15:07 +1000</pubDate>
-            <sparkle:version>0.3.19</sparkle:version>
-            <sparkle:shortVersionString>0.3.19</sparkle:shortVersionString>
+            <title>0.3.22</title>
+            <pubDate>Wed, 21 Oct 2026 13:16:28 +1000</pubDate>
+            <sparkle:version>0.3.22</sparkle:version>
+            <sparkle:shortVersionString>0.3.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.19
+            <description sparkle:format="markdown"><![CDATA[Séance 0.3.22
 
-Fixes mobile new-chat account checks when the owning Mac’s helper runs with launchd’s minimal command search path. A signed-in account stays usable from the phone; an unavailable check is reported separately from a signed-out account.
-
-Includes the Mac app and host changes through 0.3.17.
+- Fix notification taps and show asynchronous Codex questions on the phone.
+- Keep pinned chats beneath their owning computer.
+- Restore the workspace instead of reopening Settings.
+- Include the owning-Mac account preflight repair.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.19/Seance-0.3.19.dmg" length="80950406" type="application/octet-stream" sparkle:edSignature="gTONZmr1jkEHNaOQuAexM+mNeqKwaVAtJw/+ZRGZi3rj5YkraD6vm1Sunu6rztYGOz0cJg7u1iA0DBY+z/dvAw=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.22/Seance-0.3.22.dmg" length="81094898" type="application/octet-stream" sparkle:edSignature="uq8JMjW3TyJut18jwTVCyZpumM/MOEq6uRig51MTkjij0Fsx1rbozOirUODB71UgWJC9Iy8H5SyN/6nf3LXwBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: YgqyClNJTBpfESaUpXWCfeTlyczgT27WgAZ4qVDjKy9E6S1LsQ8h0HCL/z8OIPvqKS9H84LfTSWp4qW75sNVBA==
-length: 1447
+edSignature: GF+2B1sP/Zt78d3CIDejNmT8ylBSJ+0x1fu18e8wr7nqCRMliDM/ZBlGAbOP1bzYQcrkhsZZqSgxGoOWInP4AA==
+length: 1384
 -->
