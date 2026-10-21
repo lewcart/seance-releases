@@ -4,21 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.25</title>
-            <pubDate>Wed, 21 Oct 2026 19:02:01 +1000</pubDate>
-            <sparkle:version>0.3.25</sparkle:version>
-            <sparkle:shortVersionString>0.3.25</sparkle:shortVersionString>
+            <title>0.3.26</title>
+            <pubDate>Wed, 21 Oct 2026 19:42:34 +1000</pubDate>
+            <sparkle:version>0.3.26</sparkle:version>
+            <sparkle:shortVersionString>0.3.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.25
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.26
 
-Claude subscription sign-in now opens its browser flow correctly. Sign-in prompts, errors and the fallback link remain visible; subscription tokens are withheld from terminal scrollback and saved to the selected account’s Keychain entry.
+Accounts settings reliably discovers installed Claude and Codex commands when Séance opens from Finder or the Dock.
 
-Existing Personal, Work and Shared accounts keep their current configuration.
+Compact account rows show Connected or a direct Sign In action. Editing and terminal commands are in each account’s menu. A shared provider error appears once, and the refresh button checks every account again.
+
+Existing accounts, login modes, terminal commands and credentials are retained.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.25/Seance-0.3.25.dmg" length="81537849" type="application/octet-stream" sparkle:edSignature="XcFPqRC8SLtWNtKhaOJUTq2qy6Jy6G7NkANpfg1cmGjjqVPWq0kwDheQpSz1L+5iDfNOeQjoTS4mgaCpolbhDw=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.26/Seance-0.3.26.dmg" length="81551073" type="application/octet-stream" sparkle:edSignature="EP41MU+LGwYJdI4VOF6LY9KoU5Do+eYd90nQsLW0I6p7qujLr8+0Wpd+P1Bhr5CvldWIP5Orj2pfa44m41q1BA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: E760KC8ROt5zhUrHK/FJ/VojIpXeSPqq9UBbfICw2gjhDtKtI+pG9t/ql1t1PHbuxy4e7lMjkp6/tZd//NceAA==
-length: 1472
+edSignature: fgqg+7BLXbfWRx63O9bhYzEhfy/t6miLv4wfcsynv760vM5BHd4xwvxoSmA2RBgdkKtZmFsPTHc3hqS2M49CDg==
+length: 1565
 -->
