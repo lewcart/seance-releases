@@ -4,23 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.30</title>
-            <pubDate>Fri, 23 Oct 2026 18:06:55 +1000</pubDate>
-            <sparkle:version>0.3.30</sparkle:version>
-            <sparkle:shortVersionString>0.3.30</sparkle:shortVersionString>
+            <title>0.3.33</title>
+            <pubDate>Sat, 24 Oct 2026 08:37:27 +1000</pubDate>
+            <sparkle:version>0.3.33</sparkle:version>
+            <sparkle:shortVersionString>0.3.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.30
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.33
 
-Séance now updates Claude Code for you, so your chats keep access to external drives. When Claude Code replaced itself under running chats, macOS stopped those chats, and everything they ran, from reading external drives until they restarted. It showed up as "low max file descriptors (Unexpected)". Claude Code's own updater is now off in every chat Séance starts. When a newer Claude Code is out, the sidebar says so. Update Claude Code… in the Séance menu, or in Settings → Agents, waits for working chats to finish, quits them, installs the update and reopens each chat in its tab. Each one comes back on the same conversation, account, model and effort, with any unsent text put back. This works when Claude Code was installed with npm.
+Claude chats on the Mac open on the phone and iPad again. A chat could stay on "Preparing conversation…" on another device and never show its messages. That happened most often once Claude was idle, and in projects reached through a shortcut to another drive. The Mac had found the chat's conversation but then turned it down, because it compared the chat's folder in two different forms. It now reads them the same way, and chats already open recover once this update is installed.
 
-Selecting a project no longer opens a stray shell beside your chats. A project's only shell now shows as an ordinary row in the sidebar.
+The sidebar no longer shows a network message while a computer reconnects; the computer's heading already says so. A message appears only when the connection needs you, for example to sign in again, and only once that has lasted 15 seconds.
 
-Claude accounts signed in with a subscription token now say so in Settings → Agents, with the renewal date, instead of "Not signed in".
+Projects with no chats look like the rest of the list when you open them. Once that fold is open it reads, for example, "No chats in 11 projects".
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.30/Seance-0.3.30.dmg" length="83689187" type="application/octet-stream" sparkle:edSignature="+2ZejhHvh61YsVYldcQFrx6CwSslCYIUxFrz5AF5H4Wo55sme7AoFeh45OzaDGo63ezia1qgmDqmH3XR7iwfBA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.33/Seance-0.3.33.dmg" length="83718574" type="application/octet-stream" sparkle:edSignature="XcckqavOYUb2TfZx+VurO65LFA7OY/5p9n180bgEQ0KF6CPkPQN9B1Ne05G7IXvqlh1HrkiP5kFKFswxjOmgDw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Jc8jLwu5j32gwnEZ/iRLHdT2UclhHCI4UEYZpXV7j4LcqME6QcptINwHpnIbDCLzjkX7Xqtw0OWtR7iy09twDw==
-length: 2179
+edSignature: nfUReeyoewG122DVXWYUYvGctGarvrrIskZCN0iJovzJeHbdN0joQu05qfyo0x8HjF2wAjKpJyT6P6Q6fSPHCA==
+length: 2028
 -->
