@@ -4,23 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.29</title>
-            <pubDate>Thu, 22 Oct 2026 06:27:48 +1000</pubDate>
-            <sparkle:version>0.3.29</sparkle:version>
-            <sparkle:shortVersionString>0.3.29</sparkle:shortVersionString>
+            <title>0.3.30</title>
+            <pubDate>Fri, 23 Oct 2026 18:06:55 +1000</pubDate>
+            <sparkle:version>0.3.30</sparkle:version>
+            <sparkle:shortVersionString>0.3.30</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.29
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.30
 
-Phones and iPads now take turns with your Macs the same way Macs do with each other. Switching to Terminal on the phone brings the chat's terminal there; the Mac, and any other screen showing it, keeps its last picture softly blurred with a Use Here button. Clicking or typing on the Mac no longer pulls the terminal back from the phone, and typing on a covered phone goes nowhere.
+Séance now updates Claude Code for you, so your chats keep access to external drives. When Claude Code replaced itself under running chats, macOS stopped those chats, and everything they ran, from reading external drives until they restarted. It showed up as "low max file descriptors (Unexpected)". Claude Code's own updater is now off in every chat Séance starts. When a newer Claude Code is out, the sidebar says so. Update Claude Code… in the Séance menu, or in Settings → Agents, waits for working chats to finish, quits them, installs the update and reopens each chat in its tab. Each one comes back on the same conversation, account, model and effort, with any unsent text put back. This works when Claude Code was installed with npm.
 
-On iPhone and iPad, a terminal taken over from a Mac now fills the screen. Before, it was pushed to the left with its first columns cut off.
+Selecting a project no longer opens a stray shell beside your chats. A project's only shell now shows as an ordinary row in the sidebar.
 
-After the phone comes back from the background, its terminal returns to the phone's own size instead of staying a couple of rows short.
+Claude accounts signed in with a subscription token now say so in Settings → Agents, with the renewal date, instead of "Not signed in".
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.29/Seance-0.3.29.dmg" length="83292125" type="application/octet-stream" sparkle:edSignature="okS78AX0MTXBqZY1R+O2CWAMwxOneht3wz/urJeSre1Ti72KutYVmg7O6v5kwOyzHeUuFD+mUoB9RgMCVKHICA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.30/Seance-0.3.30.dmg" length="83689187" type="application/octet-stream" sparkle:edSignature="+2ZejhHvh61YsVYldcQFrx6CwSslCYIUxFrz5AF5H4Wo55sme7AoFeh45OzaDGo63ezia1qgmDqmH3XR7iwfBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: n/XwF4BzvWQl8l8BWXpv7XCWzwodF0DoKj14zu12So615DoR7nUeFKAKY928YVyHVTr9JNyyPVW2+S/MJg3mBg==
-length: 1814
+edSignature: Jc8jLwu5j32gwnEZ/iRLHdT2UclhHCI4UEYZpXV7j4LcqME6QcptINwHpnIbDCLzjkX7Xqtw0OWtR7iy09twDw==
+length: 2179
 -->
