@@ -4,27 +4,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.34</title>
-            <pubDate>Sat, 24 Oct 2026 12:11:15 +1000</pubDate>
-            <sparkle:version>0.3.34</sparkle:version>
-            <sparkle:shortVersionString>0.3.34</sparkle:shortVersionString>
+            <title>0.3.35</title>
+            <pubDate>Sat, 24 Oct 2026 14:08:15 +1000</pubDate>
+            <sparkle:version>0.3.35</sparkle:version>
+            <sparkle:shortVersionString>0.3.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.34
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.35
 
-A chat no longer tells you it's done while work it started is still going. When Claude hands a job to a subagent, or starts a Codex run such as `sol-implement` in the background, its turn ends straight away, and Séance used to call the chat done right then. It now waits until that work has finished, keeps the light amber meanwhile, and sends one "done" at the end. Codex chats work the same way with their own subagents. "No progress for 15 minutes" also now counts work happening in subagents, background tasks and builds, so a busy chat no longer looks stuck, and the alert says what the chat was waiting on.
+New Chat on your phone starts chats on your Personal Claude account again. The phone showed the Mac's own model list, where Opus 5.5 is the 1M-context one, and the Mac checked that choice against a list that never has the 1M names, so it refused it. Personal now uses the Mac's own list, and the Mac accepts the same model under its other name.
 
-A message one chat sends another no longer looks like yours. It shows as a single row in the colour opposite the chat's own: "From" with the sending chat's name and the time. Tap it to read the message, or tap the chat's name to go there. A subagent's report shows the same way, as "Helper report" with its task. A message sent while Claude was busy no longer stays "queued" after Claude has read it.
+Choosing an account in New Chat, on the Mac or the phone, no longer changes the model or effort. The same model stays, as that account names it, and so does the effort when the model offers it. "Use as default" is one default per agent.
 
-A chat that another chat opens no longer starts on an account that's at its usage limit. It used to start on your default account every time, and when that account was full, Claude's only reply was "You've hit your weekly limit" while the chat sat there looking finished. Now it starts on your default unless Séance knows that account is full, then on the account of the chat that opened it, then on your other accounts. If Claude still answers with the limit, Séance starts the same chat again on the next account, and the chat's card says so. When every account is full, nothing is opened and the chat that asked is told when each one resets.
+After you trust a folder from your phone, its card goes away within a few seconds. When the chat had a first message, Claude went straight to work, and the card stayed on "Sent — checking", hiding the message box, until that turn ended.
 
-Any Claude chat that hits a usage limit now shows as stuck, with the reset time, instead of looking finished.
+A message forwarded from another chat no longer stays "Queued" after Claude has read it.
 
-New Chat on the Mac and phone won't start a chat on an account Séance knows is full; it says when that account resets.
+The Mac conversation view now looks like the iPhone's: "You" cards in the project's colour, replies under a small label, the Working capsule and the "Worked for …" card, and one message box with model, effort and context underneath. A Work section in the side panel shows the chat's plan, the files its turn changed and every step. Switch between Conversation and Terminal with the two icons in the toolbar, or ⌘J.
+
+The chat header's first line is just the chat's name; the second shows the branch, the worktree count and the chat's agent.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.34/Seance-0.3.34.dmg" length="84567920" type="application/octet-stream" sparkle:edSignature="zoBDYmSMe7Cf//6W5luEjoHpHUwFLwp7TvqlGVjlYttOrUlBo8fyqS7TL1IoGdh0b1+BXre3xHa3KEXDxnR5BA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.35/Seance-0.3.35.dmg" length="84965361" type="application/octet-stream" sparkle:edSignature="2zY2GnYJukwF0p5ls7DUrYuj124Or5o/UteVXV1x+WgklVFwjkDCX9mMXbFXPo9bjZKZq5Gol2kvKQIb6Y33AQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iOpFcSjU/d4XoATLTkei5hsjG6Dy9aiXgUnDOR+gGoRRZMAzk+RLTaXUYqXfVjrG6y79YJl43hofhTDrr5s/Cg==
-length: 3049
+edSignature: TbxDIx3JnHljZEt9XVY24zyoYmNfxxh55NP/R+wPJ7NjaG6QvsmVORPa4DQ4DyjD5vB6AC6w9PnyJe8XBzqbBQ==
+length: 2611
 -->
