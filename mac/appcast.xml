@@ -4,25 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.36</title>
-            <pubDate>Sat, 24 Oct 2026 17:09:33 +1000</pubDate>
-            <sparkle:version>0.3.36</sparkle:version>
-            <sparkle:shortVersionString>0.3.36</sparkle:shortVersionString>
+            <title>0.3.37</title>
+            <pubDate>Sat, 24 Oct 2026 18:18:30 +1000</pubDate>
+            <sparkle:version>0.3.37</sparkle:version>
+            <sparkle:shortVersionString>0.3.37</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.36
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.37
 
-The side panel no longer has a Work section at the top. It shows the chat's artifacts and files again, and the conversation keeps its own Working capsule with Stop at the end of the thread.
+The servers a chat starts now appear under Live Servers in its side panel, whether or not the agent published them, with whether each is still running. Servers on a connected computer's chats are listed too, and open through that computer. Settings → Devices → This Mac can turn this off.
 
-The chat header's second line now shows how much room is left: the chat's context, then the account's Session and Weekly limits (or Codex's limits) as small rings that shrink to bars when the window is narrow. Click it to open Chat Details, which shows the usage, the agent, model and account, and the chat's worktrees. A long worktree list can be filtered and loads 20 at a time.
-
-New Chat shows each account's limit or use in its account menu. When your default account is full, it starts on the most recently used account that still has room and tells you why. If every account is full, it shows when the first one resets.
-
-With a long chat title, the Conversation and Terminal switch no longer gets pushed into the toolbar's overflow menu. It is also neutral now, rather than in the project colour.
+With iPhone build 98, New Chat on the phone and iPad is redone in the sidebar's look.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.36/Seance-0.3.36.dmg" length="86539931" type="application/octet-stream" sparkle:edSignature="K/xoDpvXxuwo91OmLSGFv+ts6QzkzVOhDQOfDilly8+ZtKan69+FHA3Ydb+S8IZ1Z3PFXtzmAY0N+px39UKODw=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.37/Seance-0.3.37.dmg" length="86039705" type="application/octet-stream" sparkle:edSignature="NIrXh7T8pnhZJTzaK1O3/32qhoPAatIdHA17M/8XiiClmZBfouoLwEmuXHOLvekVpFiKHT7LGnEA32KNOF6bBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mkkieJXMVZ5N7EIn8ASNLq00L4AkK6p1PxIVL9BaZ9BXzfbt1Ix1DveRuAgLv80+kBVU4yWurSF7mIUj4YFtDg==
-length: 2147
+edSignature: nbVHzewysR+WUtQ55WwWEdurhw4Z1/YN2mIhEXaAOenLQAIyJFKikf4pVnK6fxzYil3jgpA4x5t520UoEjeHAQ==
+length: 1533
 -->
