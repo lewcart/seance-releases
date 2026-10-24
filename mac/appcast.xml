@@ -4,21 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.37</title>
-            <pubDate>Sat, 24 Oct 2026 18:18:30 +1000</pubDate>
-            <sparkle:version>0.3.37</sparkle:version>
-            <sparkle:shortVersionString>0.3.37</sparkle:shortVersionString>
+            <title>0.3.38</title>
+            <pubDate>Sat, 24 Oct 2026 23:59:30 +1000</pubDate>
+            <sparkle:version>0.3.38</sparkle:version>
+            <sparkle:shortVersionString>0.3.38</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.37
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.38
 
-The servers a chat starts now appear under Live Servers in its side panel, whether or not the agent published them, with whether each is still running. Servers on a connected computer's chats are listed too, and open through that computer. Settings → Devices → This Mac can turn this off.
+Chats stay where you put them. A new chat appears at the top of its project and then stays put; activity no longer moves rows around. Drag chats in the sidebar to arrange them, including chats on a connected Mac. Recent activity, Name and Needs attention are still available from Sort. Your current order is kept the first time you open this version.
 
-With iPhone build 98, New Chat on the phone and iPad is redone in the sidebar's look.
+The time beside a chat now means something happened in the conversation: a message, a finished turn, or something you sent. Redraws, status changes and reconnecting after a restart no longer make every chat say "now".
+
+The side panel now opens beside the terminal: the window gets wider instead of the terminal getting narrower, and closing the panel gives the width back. Anything running full screen in the terminal no longer redraws when you toggle it.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.37/Seance-0.3.37.dmg" length="86039705" type="application/octet-stream" sparkle:edSignature="NIrXh7T8pnhZJTzaK1O3/32qhoPAatIdHA17M/8XiiClmZBfouoLwEmuXHOLvekVpFiKHT7LGnEA32KNOF6bBg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.38/Seance-0.3.38.dmg" length="86062605" type="application/octet-stream" sparkle:edSignature="0wyuuqLTLNPNnwCzn6sVpYbQUYAYCTlYn2hhokfkU0/y3dMK6aBuzI6wXrojRrdbJvSQv4f9xD0El5tgYbhNBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: nbVHzewysR+WUtQ55WwWEdurhw4Z1/YN2mIhEXaAOenLQAIyJFKikf4pVnK6fxzYil3jgpA4x5t520UoEjeHAQ==
-length: 1533
+edSignature: i8vOQJGv1MYFxtl2vwgm6Dym/sgYV/txHy0bJtKJ7c0q2cfmDWqJ8Vvou42/YrKF1caleG1FZJSWclWZeoPSBQ==
+length: 1961
 -->
