@@ -4,29 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.35</title>
-            <pubDate>Sat, 24 Oct 2026 14:08:15 +1000</pubDate>
-            <sparkle:version>0.3.35</sparkle:version>
-            <sparkle:shortVersionString>0.3.35</sparkle:shortVersionString>
+            <title>0.3.36</title>
+            <pubDate>Sat, 24 Oct 2026 17:09:33 +1000</pubDate>
+            <sparkle:version>0.3.36</sparkle:version>
+            <sparkle:shortVersionString>0.3.36</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.35
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.36
 
-New Chat on your phone starts chats on your Personal Claude account again. The phone showed the Mac's own model list, where Opus 5.5 is the 1M-context one, and the Mac checked that choice against a list that never has the 1M names, so it refused it. Personal now uses the Mac's own list, and the Mac accepts the same model under its other name.
+The side panel no longer has a Work section at the top. It shows the chat's artifacts and files again, and the conversation keeps its own Working capsule with Stop at the end of the thread.
 
-Choosing an account in New Chat, on the Mac or the phone, no longer changes the model or effort. The same model stays, as that account names it, and so does the effort when the model offers it. "Use as default" is one default per agent.
+The chat header's second line now shows how much room is left: the chat's context, then the account's Session and Weekly limits (or Codex's limits) as small rings that shrink to bars when the window is narrow. Click it to open Chat Details, which shows the usage, the agent, model and account, and the chat's worktrees. A long worktree list can be filtered and loads 20 at a time.
 
-After you trust a folder from your phone, its card goes away within a few seconds. When the chat had a first message, Claude went straight to work, and the card stayed on "Sent — checking", hiding the message box, until that turn ended.
+New Chat shows each account's limit or use in its account menu. When your default account is full, it starts on the most recently used account that still has room and tells you why. If every account is full, it shows when the first one resets.
 
-A message forwarded from another chat no longer stays "Queued" after Claude has read it.
-
-The Mac conversation view now looks like the iPhone's: "You" cards in the project's colour, replies under a small label, the Working capsule and the "Worked for …" card, and one message box with model, effort and context underneath. A Work section in the side panel shows the chat's plan, the files its turn changed and every step. Switch between Conversation and Terminal with the two icons in the toolbar, or ⌘J.
-
-The chat header's first line is just the chat's name; the second shows the branch, the worktree count and the chat's agent.
+With a long chat title, the Conversation and Terminal switch no longer gets pushed into the toolbar's overflow menu. It is also neutral now, rather than in the project colour.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.35/Seance-0.3.35.dmg" length="84965361" type="application/octet-stream" sparkle:edSignature="2zY2GnYJukwF0p5ls7DUrYuj124Or5o/UteVXV1x+WgklVFwjkDCX9mMXbFXPo9bjZKZq5Gol2kvKQIb6Y33AQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.36/Seance-0.3.36.dmg" length="86539931" type="application/octet-stream" sparkle:edSignature="K/xoDpvXxuwo91OmLSGFv+ts6QzkzVOhDQOfDilly8+ZtKan69+FHA3Ydb+S8IZ1Z3PFXtzmAY0N+px39UKODw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TbxDIx3JnHljZEt9XVY24zyoYmNfxxh55NP/R+wPJ7NjaG6QvsmVORPa4DQ4DyjD5vB6AC6w9PnyJe8XBzqbBQ==
-length: 2611
+edSignature: mkkieJXMVZ5N7EIn8ASNLq00L4AkK6p1PxIVL9BaZ9BXzfbt1Ix1DveRuAgLv80+kBVU4yWurSF7mIUj4YFtDg==
+length: 2147
 -->
