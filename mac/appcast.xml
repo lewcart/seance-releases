@@ -4,23 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.38</title>
-            <pubDate>Sat, 24 Oct 2026 23:59:30 +1000</pubDate>
-            <sparkle:version>0.3.38</sparkle:version>
-            <sparkle:shortVersionString>0.3.38</sparkle:shortVersionString>
+            <title>0.3.39</title>
+            <pubDate>Mon, 26 Oct 2026 15:13:26 +1000</pubDate>
+            <sparkle:version>0.3.39</sparkle:version>
+            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.38
-
-Chats stay where you put them. A new chat appears at the top of its project and then stays put; activity no longer moves rows around. Drag chats in the sidebar to arrange them, including chats on a connected Mac. Recent activity, Name and Needs attention are still available from Sort. Your current order is kept the first time you open this version.
-
-The time beside a chat now means something happened in the conversation: a message, a finished turn, or something you sent. Redraws, status changes and reconnecting after a restart no longer make every chat say "now".
-
-The side panel now opens beside the terminal: the window gets wider instead of the terminal getting narrower, and closing the panel gives the width back. Anything running full screen in the terminal no longer redraws when you toggle it.
+            <description sparkle:format="markdown"><![CDATA[Fixes intermittent double window resizing when opening or closing the side panel. The window now waits for complete layout measurements before applying the panel width, preserving the terminal size.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.38/Seance-0.3.38.dmg" length="86062605" type="application/octet-stream" sparkle:edSignature="0wyuuqLTLNPNnwCzn6sVpYbQUYAYCTlYn2hhokfkU0/y3dMK6aBuzI6wXrojRrdbJvSQv4f9xD0El5tgYbhNBQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.39/Seance-0.3.39.dmg" length="86713200" type="application/octet-stream" sparkle:edSignature="YtwRYe3HCu9HQp7B+4nIZMjczYy5i0C0id2xxEGFhjg40gGsUO2tGMNgcPhYeYejyD0ZoB8iIiUPm1KUhBC6Cw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: i8vOQJGv1MYFxtl2vwgm6Dym/sgYV/txHy0bJtKJ7c0q2cfmDWqJ8Vvou42/YrKF1caleG1FZJSWclWZeoPSBQ==
-length: 1961
+edSignature: J/ubC7VC1IBYVDo1hYyQReDcRJM3YBe/zlcousg2pd6sMJDikPIxf+vTvGKvnPjyuLU6eXg2at3S3ZnIDpsdDw==
+length: 1334
 -->
