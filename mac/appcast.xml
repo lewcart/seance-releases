@@ -4,17 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.39</title>
-            <pubDate>Mon, 26 Oct 2026 15:13:26 +1000</pubDate>
-            <sparkle:version>0.3.39</sparkle:version>
-            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
+            <title>0.3.40</title>
+            <pubDate>Mon, 26 Oct 2026 16:38:43 +1000</pubDate>
+            <sparkle:version>0.3.40</sparkle:version>
+            <sparkle:shortVersionString>0.3.40</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Fixes intermittent double window resizing when opening or closing the side panel. The window now waits for complete layout measurements before applying the panel width, preserving the terminal size.
-]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.39/Seance-0.3.39.dmg" length="86713200" type="application/octet-stream" sparkle:edSignature="YtwRYe3HCu9HQp7B+4nIZMjczYy5i0C0id2xxEGFhjg40gGsUO2tGMNgcPhYeYejyD0ZoB8iIiUPm1KUhBC6Cw=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.40/Seance-0.3.40.dmg" length="86748726" type="application/octet-stream" sparkle:edSignature="8mF3asrR64J/J4gTMbD+b1Yf9aAKaI2qq2W7AqWbJdGDUuGTtFLn86heShu0wwxltetsqSMpQ8TeSTHIegz1DQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: J/ubC7VC1IBYVDo1hYyQReDcRJM3YBe/zlcousg2pd6sMJDikPIxf+vTvGKvnPjyuLU6eXg2at3S3ZnIDpsdDw==
-length: 1334
+edSignature: CIQIfWgbyt3hLgcFGr5F4fVukhb+A+G/sHzegZgPC2vyuZGHd9OhGvSQJ6T+WL058zAZc8vyfUtLdGgF2ysrAA==
+length: 1057
 -->
