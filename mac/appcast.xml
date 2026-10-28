@@ -4,21 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.48</title>
-            <pubDate>Wed, 28 Oct 2026 23:43:52 +1000</pubDate>
-            <sparkle:version>0.3.48</sparkle:version>
-            <sparkle:shortVersionString>0.3.48</sparkle:shortVersionString>
+            <title>0.3.49</title>
+            <pubDate>Thu, 29 Oct 2026 07:48:22 +1000</pubDate>
+            <sparkle:version>0.3.49</sparkle:version>
+            <sparkle:shortVersionString>0.3.49</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Tuck a chat behind its page.** When a page a chat published is open beside the chat, the Tuck button in the chat's header hides the chat to the left and gives the page the whole tab. A glass bookmark on the edge shows the chat's light: click it to bring the chat out over the page, click again to tuck it, and use its lower button (or ⌘⇧↩) to put the chat back beside the page.
+            <description sparkle:format="markdown"><![CDATA[**Fixes for review and the tucked chat.**
 
-**Talk to the chat from the page.** With the chat tucked, its message box floats on the page, names the page in a chip, and has Attach This View in its + menu.
-
-**Review a page on the Mac.** Review (⌃⌥R) records what you say while you circle things on the page (turn on the pen or hold ⌥ and drag). Stop, add any words, press Return, and the chat comes back beside the page with your review.
+- If Review can't start, the chat's message box now says why.
+- Reviewing the second of two pages keeps the chat tucked behind that page.
+- Esc goes to a terminal again during a review, so Esc reaches Claude in the drawer and vim in another tab.
+- Marks you make after scrolling far down the page become their own notes.
+- A new review never waits on an earlier one whose message wasn't confirmed.
+- ⌘⇧↩ tucks a chat only beside a page it shared. Beside any other page it zooms, as before.
+- A page you opened yourself no longer adds "About …" to that chat's messages.
+- Clicking a Markdown, image or video page focuses it again.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.48/Seance-0.3.48.dmg" length="88905666" type="application/octet-stream" sparkle:edSignature="u2owpq+Djmv+HkKT+f02Wt0ruLfu+w4+O9xX1tP7akT1y7FW9Z/nRFNXY1pc8miL/ZVVyKRMSRZlBMOpH5n0Ag=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.49/Seance-0.3.49.dmg" length="88961615" type="application/octet-stream" sparkle:edSignature="QexodmrRPr3ROruXzsBnJ0d1T5i1phozGB+5yzcL6p6QN/ZPQdyLA6jNG+hFY4jS2zqyIJBtMF1rSbsK7W9VCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: h90jXIQ6wByK78fRHF8t2JGHoPf511TQHlGmWiW/NZFaWW+gnuUou5KqAPhT5xshUmpA0mYLMgti/5zMay6MDQ==
-length: 1920
+edSignature: f10zyGVIeUIq+WWnbURPoBpJ+3nqrpYIHMRAXh8vXmk8VRg+1Gznqu16OLhAzLw6P1nc3ZYXI/u0pu0CNXsQCw==
+length: 1816
 -->
