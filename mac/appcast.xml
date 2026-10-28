@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.44</title>
-            <pubDate>Wed, 28 Oct 2026 09:32:47 +1000</pubDate>
-            <sparkle:version>0.3.44</sparkle:version>
-            <sparkle:shortVersionString>0.3.44</sparkle:shortVersionString>
+            <title>0.3.45</title>
+            <pubDate>Wed, 28 Oct 2026 17:57:02 +1000</pubDate>
+            <sparkle:version>0.3.45</sparkle:version>
+            <sparkle:shortVersionString>0.3.45</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.44/Seance-0.3.44.dmg" length="87603766" type="application/octet-stream" sparkle:edSignature="+DHy9KmP/QLDl/4z7XUO5/V3AbMmxaYz0/s6Al10XLJK42wc6GgiBBBmFN1QX/qirFP4DQlyao+EEc9ERHB+AQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.45/Seance-0.3.45.dmg" length="87688774" type="application/octet-stream" sparkle:edSignature="BqUXMKg++MSIyA7vvVzMms1ai/6b9T+bMDqltHXFG8XvJL3z5rsmBw+FuYwP6hjJCl8eSU1gwn/+7sGspZ7tCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: w+zQNrYqu4SIkRy8UlN8/wSwq1MSaCR8n+5BqAR9W/Lr0JUUiFYoOQwRWgSJQcxJHtZlGCG3A0Kj0amzKWZBDg==
+edSignature: yNLxy5b9rcRKivBa7BIpbZWlHM0Rf64Pv//JWaL0kp41tzW6WOvefLekez0AWWYTALpwqtrLto7tvfFQfk8GAw==
 length: 1057
 -->
