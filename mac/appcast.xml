@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.51</title>
-            <pubDate>Thu, 29 Oct 2026 08:21:44 +1000</pubDate>
-            <sparkle:version>0.3.51</sparkle:version>
-            <sparkle:shortVersionString>0.3.51</sparkle:shortVersionString>
+            <title>0.3.52</title>
+            <pubDate>Thu, 29 Oct 2026 09:54:10 +1000</pubDate>
+            <sparkle:version>0.3.52</sparkle:version>
+            <sparkle:shortVersionString>0.3.52</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**One Lock Screen card per Mac.** Each Mac now updates only its own Séance card on your iPhone, so two Macs no longer overwrite each other's card, and a Mac whose chats have finished no longer ends the other's.
+            <description sparkle:format="markdown"><![CDATA[**Smoother window resizing.**
 
-**No more stacked cards.** When every chat on a Mac finishes, its card says "All done" for 20 minutes and is reused if work starts again, instead of being ended and replaced. While chats work, the card is refreshed every 20 minutes so it never shows as out of date.
-
-**The running timer.** Séance now tells your phone when each chat started working, so the card can show the longest-running chat on a live timer.
+- Resizing the window no longer redraws the whole window on every step. It's about twice as smooth, more beside an open page or with a long conversation.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.51/Seance-0.3.51.dmg" length="89143730" type="application/octet-stream" sparkle:edSignature="0cLwu2diKST3Mw/gwLCi9OKyM9Yl7lvtkOcbmDVUdw2ijGuYdZySUBmoVqZfX9q3D/yuLPXBJ/TQ/Kn5s41DCQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.52/Seance-0.3.52.dmg" length="89146923" type="application/octet-stream" sparkle:edSignature="xu2S5u3HsuA7ktPdPKsbfvw2W+DfHONsHMrkBSV5mEYZq5ad0BZTBfAuZ4OwNj3xralFrn4YCEmhHe3Pt7zgAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Kj6c78jFieyjMENyYXSMNNIb31VvwvTgpKVHh+EB+7XfAAwJJdzYSszG/9CDUu8FtOS26ZMqeThhAj95IPG1Aw==
-length: 1762
+edSignature: KhkKojvtPnLvYovkC2puJy1hrcRcbcQVdas7HXD5ugOm5wmFg3DcTj4MfAJWs5MPStca5XIegHDKfWJXM4bUDg==
+length: 1320
 -->
