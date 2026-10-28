@@ -4,15 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.46</title>
-            <pubDate>Wed, 28 Oct 2026 18:58:53 +1000</pubDate>
-            <sparkle:version>0.3.46</sparkle:version>
-            <sparkle:shortVersionString>0.3.46</sparkle:shortVersionString>
+            <title>0.3.47</title>
+            <pubDate>Wed, 28 Oct 2026 20:40:11 +1000</pubDate>
+            <sparkle:version>0.3.47</sparkle:version>
+            <sparkle:shortVersionString>0.3.47</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.46/Seance-0.3.46.dmg" length="87843922" type="application/octet-stream" sparkle:edSignature="zzVFgwl92fOEqiatRyx6dAZAX7q/oeujMojihd+DPDkIiWQJWScNJqIPT439kB5a8o4iiWNBGs698ZoavK5MCw=="></enclosure>
+            <description sparkle:format="markdown"><![CDATA[**Quick Chat.** Press ⌃⌥N in any app, or click Séance's crystal ball in the menu bar, to start a chat without leaving what you're doing. Return starts it; ⌘Return also opens it in Séance. Type `#` and a project's name to choose the project, then Tab.
+
+New Chat (⌘⇧N) now looks like the phone's. Turn the shortcut or the menu bar icon off in Settings → General.
+]]></description>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.47/Seance-0.3.47.dmg" length="87920787" type="application/octet-stream" sparkle:edSignature="SLFgtd3UwExZwfrk4u8Wc5unth+SIh0JJegaV6uBlo0nUevbUEyUAje3iQuB+A7bziZKuC2RLNgxps0L5EwMCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wxNLOSCcyvDE+eshE7FgjULVt3dYMAloZNhanLR1xWRM0YL35jgXi2Vi83fKJjPmGTesEiFz5Uk3T4an+gukAA==
-length: 1057
+edSignature: RWfxWp5j2tgzsoeW9Z9eDUeVl7U0U39C4/1oXRGVaP28IKGzmdUZIMUh8s8/fRv0DsleQVXVDfNi7d8rRZyvDw==
+length: 1510
 -->
