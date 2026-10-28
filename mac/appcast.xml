@@ -4,26 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.49</title>
-            <pubDate>Thu, 29 Oct 2026 07:48:22 +1000</pubDate>
-            <sparkle:version>0.3.49</sparkle:version>
-            <sparkle:shortVersionString>0.3.49</sparkle:shortVersionString>
+            <title>0.3.50</title>
+            <pubDate>Thu, 29 Oct 2026 07:58:44 +1000</pubDate>
+            <sparkle:version>0.3.50</sparkle:version>
+            <sparkle:shortVersionString>0.3.50</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Fixes for review and the tucked chat.**
+            <description sparkle:format="markdown"><![CDATA[**Séance no longer freezes around an open page.**
 
-- If Review can't start, the chat's message box now says why.
-- Reviewing the second of two pages keeps the chat tucked behind that page.
-- Esc goes to a terminal again during a review, so Esc reaches Claude in the drawer and vim in another tab.
-- Marks you make after scrolling far down the page become their own notes.
-- A new review never waits on an earlier one whose message wasn't confirmed.
-- ⌘⇧↩ tucks a chat only beside a page it shared. Beside any other page it zooms, as before.
-- A page you opened yourself no longer adds "About …" to that chat's messages.
-- Clicking a Markdown, image or video page focuses it again.
+- With a page open beside a chat, tucking, zooming or resizing the window could freeze Séance until you force-quit it. 0.3.48 and 0.3.49 have this bug; 0.3.50 fixes it.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.49/Seance-0.3.49.dmg" length="88961615" type="application/octet-stream" sparkle:edSignature="QexodmrRPr3ROruXzsBnJ0d1T5i1phozGB+5yzcL6p6QN/ZPQdyLA6jNG+hFY4jS2zqyIJBtMF1rSbsK7W9VCQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.50/Seance-0.3.50.dmg" length="88960048" type="application/octet-stream" sparkle:edSignature="oGWDWKjOGL6kTBWRbh1IzKJ7BbcO2IVld1y7Fho6B72Awh0ixom1Ee8RSrnhUo5T1GnsrLCPsmvMIFSxiyKUCA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: f10zyGVIeUIq+WWnbURPoBpJ+3nqrpYIHMRAXh8vXmk8VRg+1Gznqu16OLhAzLw6P1nc3ZYXI/u0pu0CNXsQCw==
-length: 1816
+edSignature: tRSi8gw+lv+F6gItSYpA11cg8bUVkqtEE581mrb40CMG5RIIaZpHV3WQ4IBt8ZwmCzpWimknT+j/YM+9B2AyDw==
+length: 1357
 -->
