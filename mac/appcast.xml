@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.47</title>
-            <pubDate>Wed, 28 Oct 2026 20:40:11 +1000</pubDate>
-            <sparkle:version>0.3.47</sparkle:version>
-            <sparkle:shortVersionString>0.3.47</sparkle:shortVersionString>
+            <title>0.3.48</title>
+            <pubDate>Wed, 28 Oct 2026 23:43:52 +1000</pubDate>
+            <sparkle:version>0.3.48</sparkle:version>
+            <sparkle:shortVersionString>0.3.48</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Quick Chat.** Press ⌃⌥N in any app, or click Séance's crystal ball in the menu bar, to start a chat without leaving what you're doing. Return starts it; ⌘Return also opens it in Séance. Type `#` and a project's name to choose the project, then Tab.
+            <description sparkle:format="markdown"><![CDATA[**Tuck a chat behind its page.** When a page a chat published is open beside the chat, the Tuck button in the chat's header hides the chat to the left and gives the page the whole tab. A glass bookmark on the edge shows the chat's light: click it to bring the chat out over the page, click again to tuck it, and use its lower button (or ⌘⇧↩) to put the chat back beside the page.
 
-New Chat (⌘⇧N) now looks like the phone's. Turn the shortcut or the menu bar icon off in Settings → General.
+**Talk to the chat from the page.** With the chat tucked, its message box floats on the page, names the page in a chip, and has Attach This View in its + menu.
+
+**Review a page on the Mac.** Review (⌃⌥R) records what you say while you circle things on the page (turn on the pen or hold ⌥ and drag). Stop, add any words, press Return, and the chat comes back beside the page with your review.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.47/Seance-0.3.47.dmg" length="87920787" type="application/octet-stream" sparkle:edSignature="SLFgtd3UwExZwfrk4u8Wc5unth+SIh0JJegaV6uBlo0nUevbUEyUAje3iQuB+A7bziZKuC2RLNgxps0L5EwMCA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.48/Seance-0.3.48.dmg" length="88905666" type="application/octet-stream" sparkle:edSignature="u2owpq+Djmv+HkKT+f02Wt0ruLfu+w4+O9xX1tP7akT1y7FW9Z/nRFNXY1pc8miL/ZVVyKRMSRZlBMOpH5n0Ag=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RWfxWp5j2tgzsoeW9Z9eDUeVl7U0U39C4/1oXRGVaP28IKGzmdUZIMUh8s8/fRv0DsleQVXVDfNi7d8rRZyvDw==
-length: 1510
+edSignature: h90jXIQ6wByK78fRHF8t2JGHoPf511TQHlGmWiW/NZFaWW+gnuUou5KqAPhT5xshUmpA0mYLMgti/5zMay6MDQ==
+length: 1920
 -->
