@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.55</title>
-            <pubDate>Fri, 30 Oct 2026 08:24:35 +1000</pubDate>
-            <sparkle:version>0.3.55</sparkle:version>
-            <sparkle:shortVersionString>0.3.55</sparkle:shortVersionString>
+            <title>0.3.56</title>
+            <pubDate>Fri, 30 Oct 2026 08:59:54 +1000</pubDate>
+            <sparkle:version>0.3.56</sparkle:version>
+            <sparkle:shortVersionString>0.3.56</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Quick Chat stays open while you visit Finder or the Dock to fetch a picture. Drag its empty background to move it; it remembers its place on each display. Closing keeps your message, pictures and chat choices.
+            <description sparkle:format="markdown"><![CDATA[A chat that hits its account's usage limit now carries on by itself on another account with room. Séance moves it in place, with its whole conversation, model and effort, and tells Claude to pick up where it stopped.
 
-Drop files or pictures anywhere on the box, or onto Séance's crystal ball in the menu bar. On a MacBook, click the notch to open Quick Chat and click away to tuck it back, with a small line when a message is waiting. On other displays, dragging a file near the top middle reveals a drop target. Pictures now have thumbnails in Quick Chat and New Chat.
-
-Settings → General controls click-away, notch click/hover and screen-top drops. Hover opening starts off.
+When no account of that agent has room, the chat says so and lists the accounts that do, Codex included, in a bar across its pane on the Mac and in place of the message box on iPhone. One click carries it on. Codex starts a new chat that reads the old one first, and takes its place.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.55/Seance-0.3.55.dmg" length="91000045" type="application/octet-stream" sparkle:edSignature="u1pD6v/ENm4sh/r+7Pgdi5iYWUVkQqZb0ljA20cYvgVgIUoXZxe1UxWL8sfOC7XOZ/rbhlJ4AbEjEtOD0c7XCg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.56/Seance-0.3.56.dmg" length="90575793" type="application/octet-stream" sparkle:edSignature="RNwwxoEtZge72Qegq16WW+mDN0i4QQ1LeX2GCje/BEqFZzS4CZUU6wzPGDLciAg7LP//Umycik2pDCA5k05RDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zyZO9jff9ijbybfPTFeVonbGz01hJj/roQONRCzyLaVZdjyCMZdQRHVZf7EExGnb1P1DwA2CsPC+E4XLsXA2AQ==
-length: 1808
+edSignature: 4EUprjSVNdOUOG/x1LOQxGgNBepZxfncxtuvXDmyDZ7dv/XiU93SiY6zklamW0PEhoSsc4H7+GS8cbu3eY1cAw==
+length: 1638
 -->
