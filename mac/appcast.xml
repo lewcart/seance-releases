@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.54</title>
-            <pubDate>Fri, 30 Oct 2026 07:17:50 +1000</pubDate>
-            <sparkle:version>0.3.54</sparkle:version>
-            <sparkle:shortVersionString>0.3.54</sparkle:shortVersionString>
+            <title>0.3.55</title>
+            <pubDate>Fri, 30 Oct 2026 08:24:35 +1000</pubDate>
+            <sparkle:version>0.3.55</sparkle:version>
+            <sparkle:shortVersionString>0.3.55</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Open Questions on the Mac now closes after your last answer sends successfully. Partial answers and failed sends keep the panel open.
+            <description sparkle:format="markdown"><![CDATA[Quick Chat stays open while you visit Finder or the Dock to fetch a picture. Drag its empty background to move it; it remembers its place on each display. Closing keeps your message, pictures and chat choices.
 
-Attach files to an answer with the paperclip, paste menu or a file drop. Your answers and files stay separate from an unfinished message in the chat.
+Drop files or pictures anywhere on the box, or onto Séance's crystal ball in the menu bar. On a MacBook, click the notch to open Quick Chat and click away to tuck it back, with a small line when a message is waiting. On other displays, dragging a file near the top middle reveals a drop target. Pictures now have thumbnails in Quick Chat and New Chat.
 
-A cleaner Send button, less menu clutter, and a resizable side panel.
+Settings → General controls click-away, notch click/hover and screen-top drops. Hover opening starts off.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.54/Seance-0.3.54.dmg" length="90090015" type="application/octet-stream" sparkle:edSignature="58oN/nwcFr+fjpQa/7nea6RTZ557ljphF8M39EAa8KHlS+Hq4Bf5Y10yToBkFSDCmt716DgY/6ERHf/ypbPiDA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.55/Seance-0.3.55.dmg" length="91000045" type="application/octet-stream" sparkle:edSignature="u1pD6v/ENm4sh/r+7Pgdi5iYWUVkQqZb0ljA20cYvgVgIUoXZxe1UxWL8sfOC7XOZ/rbhlJ4AbEjEtOD0c7XCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ML82PgEBPMTiRJi4Xvfw+NOhNi+6HEAhkvIXpfbfbW6Z6YH65zwCndlgmZpJcgBuQQroJe/ZEEEgGZJ16pbHAA==
-length: 1491
+edSignature: zyZO9jff9ijbybfPTFeVonbGz01hJj/roQONRCzyLaVZdjyCMZdQRHVZf7EExGnb1P1DwA2CsPC+E4XLsXA2AQ==
+length: 1808
 -->
