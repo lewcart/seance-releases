@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.53</title>
-            <pubDate>Thu, 29 Oct 2026 22:27:29 +1000</pubDate>
-            <sparkle:version>0.3.53</sparkle:version>
-            <sparkle:shortVersionString>0.3.53</sparkle:shortVersionString>
+            <title>0.3.54</title>
+            <pubDate>Fri, 30 Oct 2026 07:17:50 +1000</pubDate>
+            <sparkle:version>0.3.54</sparkle:version>
+            <sparkle:shortVersionString>0.3.54</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Open Questions: when a chat asks you questions and keeps working, they now wait in one place, above Needs you. Click an option, type a reply, or both. Tab moves to the next answer and ⌘Return sends each chat one message with your answers. A question about a page opens that page beside it.
+            <description sparkle:format="markdown"><![CDATA[Open Questions on the Mac now closes after your last answer sends successfully. Partial answers and failed sends keep the panel open.
 
-Chats keep their artifacts when the Mac restarts.
+Attach files to an answer with the paperclip, paste menu or a file drop. Your answers and files stay separate from an unfinished message in the chat.
+
+A cleaner Send button, less menu clutter, and a resizable side panel.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.53/Seance-0.3.53.dmg" length="90014601" type="application/octet-stream" sparkle:edSignature="BLK5rwA2Ks7BNPPH11GVrLXBpyQRtZQceKl3yKBp322n8qAMnPozM9SmEVJF6J89u6RMYOvSHDIsNey7D92AAg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.54/Seance-0.3.54.dmg" length="90090015" type="application/octet-stream" sparkle:edSignature="58oN/nwcFr+fjpQa/7nea6RTZ557ljphF8M39EAa8KHlS+Hq4Bf5Y10yToBkFSDCmt716DgY/6ERHf/ypbPiDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: i2GZ5zbHWCn86DR4e9oiyT2noYsxkBPPU/tIDQ1lR6q2zCu5ik1GOUi0uffIDEwUn6Tw3qMFu+5Ry7nZS2bGDA==
-length: 1478
+edSignature: ML82PgEBPMTiRJi4Xvfw+NOhNi+6HEAhkvIXpfbfbW6Z6YH65zwCndlgmZpJcgBuQQroJe/ZEEEgGZJ16pbHAA==
+length: 1491
 -->
