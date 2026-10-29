@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.52</title>
-            <pubDate>Thu, 29 Oct 2026 09:54:10 +1000</pubDate>
-            <sparkle:version>0.3.52</sparkle:version>
-            <sparkle:shortVersionString>0.3.52</sparkle:shortVersionString>
+            <title>0.3.53</title>
+            <pubDate>Thu, 29 Oct 2026 22:27:29 +1000</pubDate>
+            <sparkle:version>0.3.53</sparkle:version>
+            <sparkle:shortVersionString>0.3.53</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Smoother window resizing.**
+            <description sparkle:format="markdown"><![CDATA[Open Questions: when a chat asks you questions and keeps working, they now wait in one place, above Needs you. Click an option, type a reply, or both. Tab moves to the next answer and ⌘Return sends each chat one message with your answers. A question about a page opens that page beside it.
 
-- Resizing the window no longer redraws the whole window on every step. It's about twice as smooth, more beside an open page or with a long conversation.
+Chats keep their artifacts when the Mac restarts.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.52/Seance-0.3.52.dmg" length="89146923" type="application/octet-stream" sparkle:edSignature="xu2S5u3HsuA7ktPdPKsbfvw2W+DfHONsHMrkBSV5mEYZq5ad0BZTBfAuZ4OwNj3xralFrn4YCEmhHe3Pt7zgAQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.53/Seance-0.3.53.dmg" length="90014601" type="application/octet-stream" sparkle:edSignature="BLK5rwA2Ks7BNPPH11GVrLXBpyQRtZQceKl3yKBp322n8qAMnPozM9SmEVJF6J89u6RMYOvSHDIsNey7D92AAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: KhkKojvtPnLvYovkC2puJy1hrcRcbcQVdas7HXD5ugOm5wmFg3DcTj4MfAJWs5MPStca5XIegHDKfWJXM4bUDg==
-length: 1320
+edSignature: i2GZ5zbHWCn86DR4e9oiyT2noYsxkBPPU/tIDQ1lR6q2zCu5ik1GOUi0uffIDEwUn6Tw3qMFu+5Ry7nZS2bGDA==
+length: 1478
 -->
