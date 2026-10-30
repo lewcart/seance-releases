@@ -4,19 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.56</title>
-            <pubDate>Fri, 30 Oct 2026 08:59:54 +1000</pubDate>
-            <sparkle:version>0.3.56</sparkle:version>
-            <sparkle:shortVersionString>0.3.56</sparkle:shortVersionString>
+            <title>0.3.57</title>
+            <pubDate>Fri, 30 Oct 2026 10:20:54 +1000</pubDate>
+            <sparkle:version>0.3.57</sparkle:version>
+            <sparkle:shortVersionString>0.3.57</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[A chat that hits its account's usage limit now carries on by itself on another account with room. Séance moves it in place, with its whole conversation, model and effort, and tells Claude to pick up where it stopped.
+            <description sparkle:format="markdown"><![CDATA[Answer a set of questions and move straight to the next while your reply sends. Upload and send progress stay visible without holding up the next form. If a reply needs attention, Review brings back the saved answers and attachments.
 
-When no account of that agent has room, the chat says so and lists the accounts that do, Codex included, in a bar across its pane on the Mac and in place of the message box on iPhone. One click carries it on. Codex starts a new chat that reads the old one first, and takes its place.
+The paperclip now sits inside each answer box, centred beside the text. Drop files or pictures directly on the box, including over its text.
+
+Open Questions shows cached content immediately while it refreshes. Reference-page buttons use the document title instead of a section code such as “flow”.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.56/Seance-0.3.56.dmg" length="90575793" type="application/octet-stream" sparkle:edSignature="RNwwxoEtZge72Qegq16WW+mDN0i4QQ1LeX2GCje/BEqFZzS4CZUU6wzPGDLciAg7LP//Umycik2pDCA5k05RDA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.57/Seance-0.3.57.dmg" length="90987296" type="application/octet-stream" sparkle:edSignature="gf0EzxMAWX1jAglk27uRsJE8WVmxl2FUM942d7udEF5pZI0Dpp1J6WEQRt+bMVpXHgCcHTt6ODERZL79Eav8Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4EUprjSVNdOUOG/x1LOQxGgNBepZxfncxtuvXDmyDZ7dv/XiU93SiY6zklamW0PEhoSsc4H7+GS8cbu3eY1cAw==
-length: 1638
+edSignature: /6dnbTGjZO+96kQiCkCoOQ1tC+YfN/6tvyNNrT53n+kbvZryEh3iel1S8Futu2YX2C2HFDRWE7x371vWr7lyAA==
+length: 1672
 -->
