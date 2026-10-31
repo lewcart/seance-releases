@@ -4,22 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.61</title>
-            <pubDate>Sat, 31 Oct 2026 13:42:13 +1000</pubDate>
-            <sparkle:version>0.3.61</sparkle:version>
-            <sparkle:shortVersionString>0.3.61</sparkle:shortVersionString>
+            <title>0.3.63</title>
+            <pubDate>Sat, 31 Oct 2026 15:09:22 +1000</pubDate>
+            <sparkle:version>0.3.63</sparkle:version>
+            <sparkle:shortVersionString>0.3.63</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.61
+            <description sparkle:format="markdown"><![CDATA[Pair computers from the command line
 
-- Location links open folders and ignore legacy run parameters. Command automation continues through the local CLI.
-- Bundled GhosttyKit, resources and zmx downloads use pinned versions and SHA-256 checks, including cached files. Dependency versions are unchanged.
-- Devices need input permission to create chats with messages or attachments, resume chats, or continue them on another account. Empty chats still need only create permission.
-- Handled Open Questions replies leave the attention list once their delivery is resolved.
+`seance computer pair` lets an agent connect this Mac to another computer, with no clicks on either Mac. Also fixes a crash when a Mac first connected to a newly paired computer, and a paired computer now shows its own name.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.61/Seance-0.3.61.dmg" length="89180105" type="application/octet-stream" sparkle:edSignature="IkG0yF4PtEmJlNHVxR8pfh/A0RjS3WQIzB6/E7wJYbnrL+4zi8mv9+5SIST7/e4pMS/jMZy6q+Ez2l9uSiV+Bw=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.63/Seance-0.3.63.dmg" length="90960982" type="application/octet-stream" sparkle:edSignature="t67g8f6i7HRE2bRpf3fuYgFYhXbl5htSI9rCv2uZFBYWJ68S2X33DnNRlUdx3Vp1lO+hkgDB5y5Hc4jVJBWpAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lA3kiFfsskfH8Zy/6w9P9vCTfyzEW25897rVV2L2wmwoLzHWFVtg+Nda64M3jzunvQnamE5cNwrndlH6iFeMCw==
-length: 1685
+edSignature: iZWutUtNv2oRn7BANgX9d1XIsUXbLpUbPk/pdEAKbRmzTuswnwvZTgYMrOEGTtHXN6JXeQh2zxUOW9InJCIVCA==
+length: 1398
 -->
