@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.59</title>
-            <pubDate>Sat, 31 Oct 2026 12:57:05 +1000</pubDate>
-            <sparkle:version>0.3.59</sparkle:version>
-            <sparkle:shortVersionString>0.3.59</sparkle:shortVersionString>
+            <title>0.3.60</title>
+            <pubDate>Sat, 31 Oct 2026 13:41:09 +1000</pubDate>
+            <sparkle:version>0.3.60</sparkle:version>
+            <sparkle:shortVersionString>0.3.60</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[You can now hide a chat's message box when it covers part of a page. Press the down arrow in the box to fold it to a small pill with the chat's light, and press the pill to bring it back.
+            <description sparkle:format="markdown"><![CDATA[Open Questions: clear handled reply failures
 
-The bookmark on a tucked chat is now just the light. Click it to bring the chat out over the page, and click it again to put the chat back beside the page.
-
-Tucking a chat and putting it back are now one smooth movement: the chat keeps its contents as it slides, and the page's edge moves with it.
+Failed reply rows now offer Mark Handled. Resolved questions also clear stale saved replies after refresh or restart. Existing answers and unanswered questions are preserved, and clearing a saved reply never sends it again.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.59/Seance-0.3.59.dmg" length="90883199" type="application/octet-stream" sparkle:edSignature="Wbq2m9Ko2GISRSEOIEZ+Z74Fdl4Jy6lJpmIZt0g29qP+cfI8NQmZUppJq0k1G2fCq4rsKUt6LeMnqclgxeRnDg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.60/Seance-0.3.60.dmg" length="89188753" type="application/octet-stream" sparkle:edSignature="Hvh5Q4mFoDTjzWsBsz35qQhbwUjvErCP3Ev+TEggwk05bWu+uBbKle6OeFdALrcizx319g1KITWvsJwdLZpNCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1Nmjb380dCAjfwJ1zW93kG9jVgRpuxNdBoANDTvpoGXAhsyNFGjf5d2tkFjtep6eeSttaFpM/6kvwAoGNPOcBg==
-length: 1622
+edSignature: CAWFSZme1uRk53UkvgAGzXxRSP4IFgPCnCYatW3hXi64yKnp9oiuADO7vq0cALmoYx9/RNCFO7jjhtrr4KUwDA==
+length: 1405
 -->
