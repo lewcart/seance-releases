@@ -4,24 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.65</title>
-            <pubDate>Sun, 01 Nov 2026 13:06:36 +1000</pubDate>
-            <sparkle:version>0.3.65</sparkle:version>
-            <sparkle:shortVersionString>0.3.65</sparkle:shortVersionString>
+            <title>0.3.66</title>
+            <pubDate>Sun, 01 Nov 2026 16:49:39 +1000</pubDate>
+            <sparkle:version>0.3.66</sparkle:version>
+            <sparkle:shortVersionString>0.3.66</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.65
+            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.66
 
-- Séance can create its workspace window on first launch and when you click its Dock icon or choose Show Window. Startup and session restoration no longer depend on that window appearing first.
-- After a restart ends terminal chats, Séance offers **Open closed chats?** to reopen the saved Claude and Codex conversations with their projects, accounts and saved settings.
-- **Not Now** keeps those conversations under **File → Reopen Interrupted Chats…**. Earlier deferred chats stay out of a later startup offer.
-- Surviving terminal sessions reconnect automatically. Deliberately closed or archived chats stay closed, and startup cannot overwrite a layout before restoring it.
-
-Recovery uses verified saved conversation identities. Older interrupted chats without one remain in the list with an explanation.
+- Codex chats on a saved account, such as Work, now open on your iPhone, iPad and other Macs. They could stay on "Preparing conversation…" and never show their messages.
+- A pinned chat that needs you now sits in Needs You until you answer it, then returns to its place in Pinned.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.65/Seance-0.3.65.dmg" length="91459966" type="application/octet-stream" sparkle:edSignature="IaL3cYuhQ6z1Ffl5wdg8teCLu8KUmE3gI3Zbi3Nzny1ylt2hLnnee/nzJ0cKG3ofGKYomPHB/W5SBw5SYsOtBQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.66/Seance-0.3.66.dmg" length="91456703" type="application/octet-stream" sparkle:edSignature="3Z+TY3Nicjsq40a9RDKGoIqkpKRatMfes19l8j7waln7ADUKNAgx9uyH6Z8rtNqnugD54+WW/HNvtkm4hgoVCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6op2IRUMKJ9vvVABq4HmVkKiLKpHpArENhgnhjtQFvfD8/+pEapHqr4OOB8fP66BoaiiuGoepCzMnmk3TnodDw==
-length: 1968
+edSignature: Ok3/nkU4zaDOr0v7Ld/60thPVy+At0VHbknqBkpfPCILSk54DxcwxBsPFpgQj9kSIMg+07wg+UiqQfImP9YCCQ==
+length: 1436
 -->
