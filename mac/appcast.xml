@@ -4,20 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.66</title>
-            <pubDate>Sun, 01 Nov 2026 16:49:39 +1000</pubDate>
-            <sparkle:version>0.3.66</sparkle:version>
-            <sparkle:shortVersionString>0.3.66</sparkle:shortVersionString>
+            <title>0.3.71</title>
+            <pubDate>Thu, 05 Nov 2026 07:26:42 +1000</pubDate>
+            <sparkle:version>0.3.71</sparkle:version>
+            <sparkle:shortVersionString>0.3.71</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Séance 0.3.66
-
-- Codex chats on a saved account, such as Work, now open on your iPhone, iPad and other Macs. They could stay on "Preparing conversation…" and never show their messages.
-- A pinned chat that needs you now sits in Needs You until you answer it, then returns to its place in Pinned.
+            <description sparkle:format="markdown"><![CDATA[Account chats start automatically across accounts. Permission cards include file-creation prompts. Command approvals use device authentication without a key field; API keys keep their secure entry. Interrupted-chat recovery is retained. PIM activation follows the compatible phone update.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.66/Seance-0.3.66.dmg" length="91456703" type="application/octet-stream" sparkle:edSignature="3Z+TY3Nicjsq40a9RDKGoIqkpKRatMfes19l8j7waln7ADUKNAgx9uyH6Z8rtNqnugD54+WW/HNvtkm4hgoVCQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.71/Seance-0.3.71.dmg" length="91869715" type="application/octet-stream" sparkle:edSignature="ZPzesPvQK4QFoUEmj7elAWiqqipE4AMV7n5laPIDqarLpQUFF8jsFb3pZO1kkUZxEC+6ILgvNGab3ljWh7u7Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ok3/nkU4zaDOr0v7Ld/60thPVy+At0VHbknqBkpfPCILSk54DxcwxBsPFpgQj9kSIMg+07wg+UiqQfImP9YCCQ==
-length: 1436
+edSignature: pZuUJcHJvbn/6MQM4zkvdeGE1KSBd0o5wxaQd15IZM7Pg6qPu/kn5bQJmrLwc5TLwiLQs9BwSS80aQZxHkGKBQ==
+length: 1424
 -->
