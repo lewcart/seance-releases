@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.72</title>
-            <pubDate>Fri, 06 Nov 2026 18:42:25 +1000</pubDate>
-            <sparkle:version>0.3.72</sparkle:version>
-            <sparkle:shortVersionString>0.3.72</sparkle:shortVersionString>
+            <title>0.3.73</title>
+            <pubDate>Sat, 07 Nov 2026 19:06:34 +1000</pubDate>
+            <sparkle:version>0.3.73</sparkle:version>
+            <sparkle:shortVersionString>0.3.73</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Reviews from your phone reach the chat. A screen review of Séance itself (swipe up with three fingers on the phone) and a review of a recording the phone made of its own screen (Review on Device) both arrive as ordinary reviews, with each mark's frame, typed and spoken notes, and where in the recording it happened.
+            <description sparkle:format="markdown"><![CDATA[A message from your phone that got lost on the way to your Mac no longer waits for ever. The Mac now says when it never received a message, so the phone sends it again by itself, once, and anything queued behind it follows.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.72/Seance-0.3.72.dmg" length="93356089" type="application/octet-stream" sparkle:edSignature="TyaGsAN39Wv3jXtRIzGjDH7wUcGGbifEy2jUXldtASIqGmFWAklPKIqNIa5nWflYQbEkZ4ct37TIYesd64phCg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.73/Seance-0.3.73.dmg" length="93611196" type="application/octet-stream" sparkle:edSignature="DkBW95E1a182tizGw0Ie8hQG2mn26wF7jPVl5NuBX5dNu3g6xHcBORdWfHZ1CSuKIeA/8nxSSUtDJTqmFGzjBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: KiLyvH8CFvCB9w4q7dRKAG7lHx5Z8o3RAe4Pt4V62BLeEwRr23jr2XKMt5E1gIvX7wAHykNGNKslGGVqmv01Cg==
-length: 1453
+edSignature: 0V+mMPM/V73rZsIMkNOm9Ou5IMhVq7A55qT5LA4a3pUxtGea1K3yAV/MO469Nc52rp8c+INLUEaJignUkDMVAg==
+length: 1359
 -->
