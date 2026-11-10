@@ -4,17 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.73</title>
-            <pubDate>Sat, 07 Nov 2026 19:06:34 +1000</pubDate>
-            <sparkle:version>0.3.73</sparkle:version>
-            <sparkle:shortVersionString>0.3.73</sparkle:shortVersionString>
+            <title>0.3.74</title>
+            <pubDate>Tue, 10 Nov 2026 21:52:58 +1000</pubDate>
+            <sparkle:version>0.3.74</sparkle:version>
+            <sparkle:shortVersionString>0.3.74</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[A message from your phone that got lost on the way to your Mac no longer waits for ever. The Mac now says when it never received a message, so the phone sends it again by itself, once, and anything queued behind it follows.
+            <description sparkle:format="markdown"><![CDATA[Email drafts are now cards you can copy. When an agent writes an email for you, it shows with To, Subject and the body in normal type. Copy Body copies it with its formatting, so bold, bullets and links paste into Mail, Gmail and Outlook. Tap To or Subject to copy just that, or use Mail to open a filled-in compose sheet.
+
+Each draft is also saved in the chat's Artifacts under Emails, with Copy on the row. In Terminal view a new draft shows a small bar over the top of the terminal with Copy.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.73/Seance-0.3.73.dmg" length="93611196" type="application/octet-stream" sparkle:edSignature="DkBW95E1a182tizGw0Ie8hQG2mn26wF7jPVl5NuBX5dNu3g6xHcBORdWfHZ1CSuKIeA/8nxSSUtDJTqmFGzjBQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.74/Seance-0.3.74.dmg" length="94340680" type="application/octet-stream" sparkle:edSignature="vSqLUjBSmhHBhJr+MUEoDrK/oGo5anR4polzbHc9Z9ZFtZFhU8RyRgiCHnn+Tk8pfm01mmelfceKk+VdFQcSCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0V+mMPM/V73rZsIMkNOm9Ou5IMhVq7A55qT5LA4a3pUxtGea1K3yAV/MO469Nc52rp8c+INLUEaJignUkDMVAg==
-length: 1359
+edSignature: Juy9IMCE0qRQO6htQ//pb0dJEixTIen+K1R0tL62NZH2kG2/E3aQcaD1MrsSvZa2WBQSbSvlnEnBBWLvjQSxBw==
+length: 1631
 -->
