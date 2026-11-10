@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.74</title>
-            <pubDate>Tue, 10 Nov 2026 21:52:58 +1000</pubDate>
-            <sparkle:version>0.3.74</sparkle:version>
-            <sparkle:shortVersionString>0.3.74</sparkle:shortVersionString>
+            <title>0.3.75</title>
+            <pubDate>Wed, 11 Nov 2026 09:29:20 +1000</pubDate>
+            <sparkle:version>0.3.75</sparkle:version>
+            <sparkle:shortVersionString>0.3.75</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Email drafts are now cards you can copy. When an agent writes an email for you, it shows with To, Subject and the body in normal type. Copy Body copies it with its formatting, so bold, bullets and links paste into Mail, Gmail and Outlook. Tap To or Subject to copy just that, or use Mail to open a filled-in compose sheet.
+            <description sparkle:format="markdown"><![CDATA[Email cards now have a Send button. Séance puts the email in Mail on your Mac and sends it once you confirm with Face ID or Touch ID, from Mail's default account or the account named on the email's From: line. The card shows "Putting it in Mail…", then "Sending…", then "Sent" once it's in your Sent mailbox. Cancelling Face ID cancels the send. If Face ID doesn't come up, the approval card in the chat still works.
 
-Each draft is also saved in the chat's Artifacts under Emails, with Copy on the row. In Terminal view a new draft shows a small bar over the top of the terminal with Copy.
+Send sends plain text, with bullets shown as •. To keep bold and links, use Copy Body as before. On the phone, Mail has moved into the card's More menu.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.74/Seance-0.3.74.dmg" length="94340680" type="application/octet-stream" sparkle:edSignature="vSqLUjBSmhHBhJr+MUEoDrK/oGo5anR4polzbHc9Z9ZFtZFhU8RyRgiCHnn+Tk8pfm01mmelfceKk+VdFQcSCQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.75/Seance-0.3.75.dmg" length="94964346" type="application/octet-stream" sparkle:edSignature="VpbdQiG7s5wuj4kBaKeINLbypkKQiv8wXU5y7+qDEE7Q5CElgVwWy28Ezkiuw2+D5KxBbMbpZ5EYMTRB5ezIBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Juy9IMCE0qRQO6htQ//pb0dJEixTIen+K1R0tL62NZH2kG2/E3aQcaD1MrsSvZa2WBQSbSvlnEnBBWLvjQSxBw==
-length: 1631
+edSignature: sqW8moc6gagX/SIu4WunfflZmNoSGy1mjxQnBh5mKbXj687IIqQKV/ej0hRIKUV/juTTkc3fcbDPGLQJZlOSAQ==
+length: 1713
 -->
