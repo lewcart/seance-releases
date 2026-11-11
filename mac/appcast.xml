@@ -4,19 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.76</title>
-            <pubDate>Wed, 11 Nov 2026 20:16:35 +1000</pubDate>
-            <sparkle:version>0.3.76</sparkle:version>
-            <sparkle:shortVersionString>0.3.76</sparkle:shortVersionString>
+            <title>0.3.77</title>
+            <pubDate>Wed, 11 Nov 2026 20:36:38 +1000</pubDate>
+            <sparkle:version>0.3.77</sparkle:version>
+            <sparkle:shortVersionString>0.3.77</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Séance now holds on to your Mac over slow or patchy mobile data. A new connection gets 30 seconds to sign in instead of 10, and a quiet connection is kept for 45 seconds before it's dropped. When the link keeps failing, retries space out to a minute instead of piling up. Switching between Wi‑Fi and mobile data reconnects straight away. Séance also stops redialling an address that keeps failing, and the connection log now records which network and route each attempt used.
-
-On the Mac, `seance computer list` shows your saved computers and `seance computer forget` removes one, without opening Settings.
+            <description sparkle:format="markdown"><![CDATA[When you answer a permission request, question or key request on one device, its notification now clears from your other iPhones and iPads. Stuck and finished alerts clear once they no longer apply, and closing or archiving a chat clears its alerts.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.76/Seance-0.3.76.dmg" length="95215761" type="application/octet-stream" sparkle:edSignature="kXBUXa4BAeHVbtLLTu7WLNNFtCRZUX7islI15iJ+nmPSgMhNRKcBeIeKqFr3T/5K1FyjSwaXRd9sbUm+t2+KBQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.77/Seance-0.3.77.dmg" length="95246296" type="application/octet-stream" sparkle:edSignature="MwJS1SHNU1pRdQuDVUUHIdjMCgvqO1rBYqk+CkFB0Vkk6QzvIIzG+cjqFf/UiYIHUm421sTTbnBzADR/ppErAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0dHaZq8eR6B0sQkYnyn0xEBVtWEr4qQSP5tREQjA86cNCnrsTqcB1u4md4cneXjanV4ofvZMK21Lh18WQRBaDw==
-length: 1746
+edSignature: arxNjJCj/MI3kcxY2oVPtHwtsB9gELYuGynfiGhjjSi2C+FffUyMH01znmKWLlRHEpwTipNzQvSBmzzYjSutAA==
+length: 1385
 -->
