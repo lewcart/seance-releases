@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.75</title>
-            <pubDate>Wed, 11 Nov 2026 09:29:20 +1000</pubDate>
-            <sparkle:version>0.3.75</sparkle:version>
-            <sparkle:shortVersionString>0.3.75</sparkle:shortVersionString>
+            <title>0.3.76</title>
+            <pubDate>Wed, 11 Nov 2026 20:16:35 +1000</pubDate>
+            <sparkle:version>0.3.76</sparkle:version>
+            <sparkle:shortVersionString>0.3.76</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Email cards now have a Send button. Séance puts the email in Mail on your Mac and sends it once you confirm with Face ID or Touch ID, from Mail's default account or the account named on the email's From: line. The card shows "Putting it in Mail…", then "Sending…", then "Sent" once it's in your Sent mailbox. Cancelling Face ID cancels the send. If Face ID doesn't come up, the approval card in the chat still works.
+            <description sparkle:format="markdown"><![CDATA[Séance now holds on to your Mac over slow or patchy mobile data. A new connection gets 30 seconds to sign in instead of 10, and a quiet connection is kept for 45 seconds before it's dropped. When the link keeps failing, retries space out to a minute instead of piling up. Switching between Wi‑Fi and mobile data reconnects straight away. Séance also stops redialling an address that keeps failing, and the connection log now records which network and route each attempt used.
 
-Send sends plain text, with bullets shown as •. To keep bold and links, use Copy Body as before. On the phone, Mail has moved into the card's More menu.
+On the Mac, `seance computer list` shows your saved computers and `seance computer forget` removes one, without opening Settings.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.75/Seance-0.3.75.dmg" length="94964346" type="application/octet-stream" sparkle:edSignature="VpbdQiG7s5wuj4kBaKeINLbypkKQiv8wXU5y7+qDEE7Q5CElgVwWy28Ezkiuw2+D5KxBbMbpZ5EYMTRB5ezIBg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.76/Seance-0.3.76.dmg" length="95215761" type="application/octet-stream" sparkle:edSignature="kXBUXa4BAeHVbtLLTu7WLNNFtCRZUX7islI15iJ+nmPSgMhNRKcBeIeKqFr3T/5K1FyjSwaXRd9sbUm+t2+KBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: sqW8moc6gagX/SIu4WunfflZmNoSGy1mjxQnBh5mKbXj687IIqQKV/ej0hRIKUV/juTTkc3fcbDPGLQJZlOSAQ==
-length: 1713
+edSignature: 0dHaZq8eR6B0sQkYnyn0xEBVtWEr4qQSP5tREQjA86cNCnrsTqcB1u4md4cneXjanV4ofvZMK21Lh18WQRBaDw==
+length: 1746
 -->
