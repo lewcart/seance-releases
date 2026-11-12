@@ -4,17 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.77</title>
-            <pubDate>Wed, 11 Nov 2026 20:36:38 +1000</pubDate>
-            <sparkle:version>0.3.77</sparkle:version>
-            <sparkle:shortVersionString>0.3.77</sparkle:shortVersionString>
+            <title>0.3.78</title>
+            <pubDate>Thu, 12 Nov 2026 17:16:45 +1000</pubDate>
+            <sparkle:version>0.3.78</sparkle:version>
+            <sparkle:shortVersionString>0.3.78</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[When you answer a permission request, question or key request on one device, its notification now clears from your other iPhones and iPads. Stuck and finished alerts clear once they no longer apply, and closing or archiving a chat clears its alerts.
+            <description sparkle:format="markdown"><![CDATA[Phones and iPads that use this Mac now get access to every computer this Mac connects to, including a Séance computer running without a window on Linux or a Windows PC (WSL2). Removing a device here removes it there too. You can turn this off in Settings → Devices → Devices follow this Mac.
+
+A phone can now type into a chat that has no open pane on the Mac, instead of being told the chat is busy.
+
+Séance can run without its window (`seanced --headless`), and the `seance` command now covers chats, projects, devices, settings, questions and artifacts.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.77/Seance-0.3.77.dmg" length="95246296" type="application/octet-stream" sparkle:edSignature="MwJS1SHNU1pRdQuDVUUHIdjMCgvqO1rBYqk+CkFB0Vkk6QzvIIzG+cjqFf/UiYIHUm421sTTbnBzADR/ppErAQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.78/Seance-0.3.78.dmg" length="96620613" type="application/octet-stream" sparkle:edSignature="890lByO2xc+jIVmBYL3k6IHxZrtb7Mq4uMkb5d2ljQyV0GJNIoh8a0D+rN68bFQwbI35Q7FWV9okO4LIAxq1CA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: arxNjJCj/MI3kcxY2oVPtHwtsB9gELYuGynfiGhjjSi2C+FffUyMH01znmKWLlRHEpwTipNzQvSBmzzYjSutAA==
-length: 1385
+edSignature: OBBT2FO/kfmInLh/4DVgIVnHmntXFI6IGaQfwZedr4ZOI9QviwnnMHw7peDx9Et6sl5SZDp2iyxqQbXcZJ9YBA==
+length: 1697
 -->
