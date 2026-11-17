@@ -4,27 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.79</title>
-            <pubDate>Mon, 16 Nov 2026 09:01:05 +1000</pubDate>
-            <sparkle:version>0.3.79</sparkle:version>
-            <sparkle:shortVersionString>0.3.79</sparkle:shortVersionString>
+            <title>0.3.80</title>
+            <pubDate>Tue, 17 Nov 2026 12:11:53 +1000</pubDate>
+            <sparkle:version>0.3.80</sparkle:version>
+            <sparkle:shortVersionString>0.3.80</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Terminal view on your other devices now shows what the terminal shows. A phone, iPad or second Mac that was watching a terminal was being sent the program's output with its screen-control codes removed, so every repaint piled up as typed text. It now gets the real output, a fresh picture whenever the size changes, and the right rows for a plain shell. Taking a terminal with Use Here no longer makes the program repaint twice.
+            <description sparkle:format="markdown"><![CDATA[A chat that hits its account's limit moves to your next account with room again when it was running subagents. Their notices, written after Claude's limit message, made Séance think you had replied, so the chat stayed on the full account until you typed something yourself.
 
-Séance is much quieter. With many chats working it could use most of a processor core just keeping the sidebar and window up to date; that is now a few percent, and resizing the window stays smooth.
-
-Long messages no longer go missing. When Séance's helper typed a message for you (a chat with no window on this Mac, or Séance closed), anything over about 4,000 characters was lost while your phone showed it as sent.
-
-⌘⇧[ and ⌘⇧] switch to the previous and next tab.
-
-The helper no longer goes down when a device's connection is dropped at the wrong moment, and it reads a long conversation once instead of again on every refresh. The usage widget reloads far less often.
-
-Chats on a computer with no Séance window (Linux, or a Windows PC through WSL2) now show their terminal correctly on your devices, and that computer reopens its chats by itself after it restarts.
+A Fable chat now counts another account's used-up Fable allowance as full, so it no longer moves there only to stop again, and the note on the chat names the Fable limit.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.79/Seance-0.3.79.dmg" length="97526828" type="application/octet-stream" sparkle:edSignature="o+a4SfvP8OsPvvlViNTxroPS8ATpIvnOpJlox7+L9UlwxLC5AyFKBEOB0GUkafKeYzJJLKmKun3Ph5BI5ReMDg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.80/Seance-0.3.80.dmg" length="97560282" type="application/octet-stream" sparkle:edSignature="4jlCjcjsNh/rct6yx4Eg4Y71dnOBQzS3DTJM7yisiVVvCieod6ErMQauMpvIywEW6R/ALPlAxXeu/V/TEAzCBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xeY2/YXd3ICEqAPWjIjrbTHFu3s3MIZdTKTJUZ8pCHi9VUajFIHqB9hCsN2lZMWjMDVysjfPWAZ2itSJyRT0Bw==
-length: 2447
+edSignature: 3Nvde47scskD/UMDINx6M+3bJobYvSvIZ7XTSHf1HuQKJ7TSJujSBqZE8/wvx/neFHZOk+oryZTSmuGuOQqfCA==
+length: 1582
 -->
