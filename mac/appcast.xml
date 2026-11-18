@@ -4,23 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.81</title>
-            <pubDate>Wed, 18 Nov 2026 16:09:28 +1000</pubDate>
-            <sparkle:version>0.3.81</sparkle:version>
-            <sparkle:shortVersionString>0.3.81</sparkle:shortVersionString>
+            <title>0.3.82</title>
+            <pubDate>Wed, 18 Nov 2026 16:34:20 +1000</pubDate>
+            <sparkle:version>0.3.82</sparkle:version>
+            <sparkle:shortVersionString>0.3.82</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Projects can now sit inside another project. A project's own chats come first, then each project inside it as a heading you can fold, on the Mac, iPhone, iPad and both Duo layouts. Headings with no open chats fold into one "Also in …" line.
-
-A project inside another can also hold app folders. A chat running in one shows its folder on the row, for example "in Tonight".
-
-Right-click a project and choose Put Inside to move it into another project. Take Out of moves it back, and Add as Folder Of adds it as a folder. Drag headings to reorder them. New Chat groups projects under their parent.
-
-Agents can arrange projects too, with seance-agent's projects commands.
+            <description sparkle:format="markdown"><![CDATA[Agents can now put projects inside one another and add folders to them with seance-agent. In 0.3.81 those commands left the project where it was.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.81/Seance-0.3.81.dmg" length="97965043" type="application/octet-stream" sparkle:edSignature="0OWUTaCnDDZ5tXUYrKbKoQ98lIPxMgZkU2emmj1uB2ePka8D1HgDHe00mNXW1oVhMWto4XDqLPhdzjLShYuaAw=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.82/Seance-0.3.82.dmg" length="97968734" type="application/octet-stream" sparkle:edSignature="9yKJi1MwPaw0rEXwx4KTHUdLTsK2ZE5Xa7GBx3WGAi6W4bulYUFY2O6OmQWpCV7jiXGVjJEOljL8t9QtUFD5DA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jLeEQW4hiACvDcov22Z7SSKxDmpmMSehq5QZ/i+yJwdkLpKgtxtSK40Pxv9ZJ+ayu7siOyi6E8xWBR5cpCg9AA==
-length: 1804
+edSignature: m6k62VtCX6M4XvvriWZrXqP9rn6MoV6QNb+1rp9av88ksb0dEtOpp2nLMpVQUAMzaKEd5cZVthfJ3SOrwn0cCg==
+length: 1281
 -->
