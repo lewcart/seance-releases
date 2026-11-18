@@ -4,19 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.80</title>
-            <pubDate>Tue, 17 Nov 2026 12:11:53 +1000</pubDate>
-            <sparkle:version>0.3.80</sparkle:version>
-            <sparkle:shortVersionString>0.3.80</sparkle:shortVersionString>
+            <title>0.3.81</title>
+            <pubDate>Wed, 18 Nov 2026 16:09:28 +1000</pubDate>
+            <sparkle:version>0.3.81</sparkle:version>
+            <sparkle:shortVersionString>0.3.81</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[A chat that hits its account's limit moves to your next account with room again when it was running subagents. Their notices, written after Claude's limit message, made Séance think you had replied, so the chat stayed on the full account until you typed something yourself.
+            <description sparkle:format="markdown"><![CDATA[Projects can now sit inside another project. A project's own chats come first, then each project inside it as a heading you can fold, on the Mac, iPhone, iPad and both Duo layouts. Headings with no open chats fold into one "Also in …" line.
 
-A Fable chat now counts another account's used-up Fable allowance as full, so it no longer moves there only to stop again, and the note on the chat names the Fable limit.
+A project inside another can also hold app folders. A chat running in one shows its folder on the row, for example "in Tonight".
+
+Right-click a project and choose Put Inside to move it into another project. Take Out of moves it back, and Add as Folder Of adds it as a folder. Drag headings to reorder them. New Chat groups projects under their parent.
+
+Agents can arrange projects too, with seance-agent's projects commands.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.80/Seance-0.3.80.dmg" length="97560282" type="application/octet-stream" sparkle:edSignature="4jlCjcjsNh/rct6yx4Eg4Y71dnOBQzS3DTJM7yisiVVvCieod6ErMQauMpvIywEW6R/ALPlAxXeu/V/TEAzCBQ=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.81/Seance-0.3.81.dmg" length="97965043" type="application/octet-stream" sparkle:edSignature="0OWUTaCnDDZ5tXUYrKbKoQ98lIPxMgZkU2emmj1uB2ePka8D1HgDHe00mNXW1oVhMWto4XDqLPhdzjLShYuaAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3Nvde47scskD/UMDINx6M+3bJobYvSvIZ7XTSHf1HuQKJ7TSJujSBqZE8/wvx/neFHZOk+oryZTSmuGuOQqfCA==
-length: 1582
+edSignature: jLeEQW4hiACvDcov22Z7SSKxDmpmMSehq5QZ/i+yJwdkLpKgtxtSK40Pxv9ZJ+ayu7siOyi6E8xWBR5cpCg9AA==
+length: 1804
 -->
