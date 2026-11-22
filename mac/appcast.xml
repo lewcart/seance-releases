@@ -4,27 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.86</title>
-            <pubDate>Mon, 23 Nov 2026 05:25:57 +1000</pubDate>
-            <sparkle:version>0.3.86</sparkle:version>
-            <sparkle:shortVersionString>0.3.86</sparkle:shortVersionString>
+            <title>0.3.87</title>
+            <pubDate>Mon, 23 Nov 2026 08:09:38 +1000</pubDate>
+            <sparkle:version>0.3.87</sparkle:version>
+            <sparkle:shortVersionString>0.3.87</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Agents can now draft more than email. A message, a calendar event, a reminder or something to share shows as a card in the conversation and a row under Drafts in the side panel, as an email does. Edit opens it in the page beside the chat; your version is kept beside the agent's, and your next message carries it. Nothing leaves without your click: a message opens in Messages, an event in Calendar's own dialog, a reminder is added to the list it names, and a share item goes to the share menu. The phone shows these cards in its next update.
+            <description sparkle:format="markdown"><![CDATA[Requests to the Mac app are no longer left waiting. Now and then a request (a key or a message passed on from a phone, a command from the command line) was not read for ten seconds and was then refused. The app now takes a request as soon as its line arrives.
 
-Typing behaves. Option-Return starts a new line in every message box. Control-[, Control-I and Control-M send Escape, Tab and Return. Keys typed while a chat is still opening are kept, and a letter typed just as the window redraws is no longer lost. A terminal another screen is using takes no paste or dictation.
-
-Pages keep their place, their player and their connection when you switch tabs or tuck the chat. A stopped review comes back after a relaunch. Open Questions can no longer hang the app.
-
-Séance costs less at rest. A chat where nothing is happening costs the regular check of its terminal about a quarter of what it did, and Find in a long conversation prepares only what changed.
-
-The helper is harder to stop. A program that quits, hangs or asks for too much can no longer take the helper down or freeze it. Pressing Create twice starts one chat. An older phone keeps reading a newer Mac. A closed chat's artifact copies are deleted 30 days after it closed. A newly started server is left alone for two minutes before Séance looks at it; one an agent publishes still shows at once.
-
-An HTML page shown as an artifact can no longer break out of its sandbox, and names with unusual characters are quoted exactly wherever Séance types a command.
+Séance's settings file no longer grows. A dead copy of the window's size was written at every launch, about 1 MB after two months of use, and every settings change had to sort through them. They are removed at the first launch and no more are made.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.86/Seance-0.3.86.dmg" length="101079688" type="application/octet-stream" sparkle:edSignature="c1/Hx0/23xWl5xSXg98QirDX/PX3K6eknHqETHnalE9mp15kdBAGRie5dFAS/cHSmpgwu+b7kQDWqJYQzoyPDw=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.87/Seance-0.3.87.dmg" length="101644288" type="application/octet-stream" sparkle:edSignature="Icn4aRUOtrzmbJJABBW1eAH7Td4+Zf/90TH6eAaZy0TD0z8SvdcoUybylqmAbBL3H5ti20DZ3iciW7vak0fzDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: yePcIOKKnBuvick9BfQ2XE+A/8J+Ln4TZWw5hGECg9pVJ2Z45ejfTFQrz3JQKGFO2vaNbNQllxqBEyxfMCewDw==
-length: 2943
+edSignature: ipi29wjsw0vWiqZct5yehIlLwR4jrwuP5JdAuZ6W/8mOF/FpFIIhjop4rkxuYSVzs/iQov9xi9nliaTczIjKBQ==
+length: 1647
 -->
