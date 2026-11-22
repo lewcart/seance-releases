@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.83</title>
-            <pubDate>Sat, 21 Nov 2026 10:09:08 +1000</pubDate>
-            <sparkle:version>0.3.83</sparkle:version>
-            <sparkle:shortVersionString>0.3.83</sparkle:shortVersionString>
+            <title>0.3.84</title>
+            <pubDate>Sun, 22 Nov 2026 10:28:29 +1000</pubDate>
+            <sparkle:version>0.3.84</sparkle:version>
+            <sparkle:shortVersionString>0.3.84</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Fixes Claude Personal appearing signed out after a successful one-year subscription token sign-in. Séance now verifies the token's workspace against the saved profile without requiring an email that Claude does not expose in token mode. Wrong-workspace and expired tokens still require reconnection.
+            <description sparkle:format="markdown"><![CDATA[Makes the sidebar, project lists and New Chat fast again after projects inside projects. Each project lookup was rebuilding the whole project hierarchy, which made New Chat and Quick Chat lag while typing. Séance now works this out once whenever your projects change.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.83/Seance-0.3.83.dmg" length="97982314" type="application/octet-stream" sparkle:edSignature="b1xZhQi4UIv9u05i0ARVcdhkEibLqyVkimtkDy5fYrGIQazNKV2mELKH04qirZqYvOw8TGAtPb+ODa5oBcEQCg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.84/Seance-0.3.84.dmg" length="98581663" type="application/octet-stream" sparkle:edSignature="yqNIs51uNBZa3nH5RoaXIrnd/YffVSOz0O/NwEW1PWQqishRSbO2pupDwfkpsSRH+eBLtYoxgaxyVXokXEKjDg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 5g1IbLd68AWFxoXoSZJuLE05GU4sY3vppLsLhMc7vhzrD+eZakXFGisB9f1phmFDexeCJhPdKG+ucJe6sYTRBA==
-length: 1436
+edSignature: 2xBNdb755Q2RBSB0xVgzBVJUSEelfHSjyVJCnUY+xO7LGBZ87WlzuBsk0B+8OGmCCmBqWk/4Nh12I2vlpEf5Dw==
+length: 1404
 -->
