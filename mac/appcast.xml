@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.84</title>
-            <pubDate>Sun, 22 Nov 2026 10:28:29 +1000</pubDate>
-            <sparkle:version>0.3.84</sparkle:version>
-            <sparkle:shortVersionString>0.3.84</sparkle:shortVersionString>
+            <title>0.3.85</title>
+            <pubDate>Sun, 22 Nov 2026 14:02:51 +1000</pubDate>
+            <sparkle:version>0.3.85</sparkle:version>
+            <sparkle:shortVersionString>0.3.85</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Makes the sidebar, project lists and New Chat fast again after projects inside projects. Each project lookup was rebuilding the whole project hierarchy, which made New Chat and Quick Chat lag while typing. Séance now works this out once whenever your projects change.
+            <description sparkle:format="markdown"><![CDATA[Sidebar rows fit on one line. A chat that needs you shows a small symbol instead of words like "Permission" or "Question", and its folder, the chat that opened it, its key or its computer appear as small tags beside the title. Helper chats show as dots after the chat that started them, and the dots fold and unfold them. Projects with no chats and plain shells show as chips that wrap. Folders open and shut in place of the disclosure arrows.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.84/Seance-0.3.84.dmg" length="98581663" type="application/octet-stream" sparkle:edSignature="yqNIs51uNBZa3nH5RoaXIrnd/YffVSOz0O/NwEW1PWQqishRSbO2pupDwfkpsSRH+eBLtYoxgaxyVXokXEKjDg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.85/Seance-0.3.85.dmg" length="98362769" type="application/octet-stream" sparkle:edSignature="v6yPWn1sH7uXIQ3dSEgm/lhS3seLQ9MqO+WfNIgvmLaYC+uAoks6ZRPK2pyqUzoTshDQ17UztIOzfTXzJzmQBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2xBNdb755Q2RBSB0xVgzBVJUSEelfHSjyVJCnUY+xO7LGBZ87WlzuBsk0B+8OGmCCmBqWk/4Nh12I2vlpEf5Dw==
-length: 1404
+edSignature: Rq8Jp2cUuEHVCAihk2gK75cBqzAkaVIju1jR6u9hHPNSbLw/gNG0k2tJJyU8ESdJBhP7R162EkjqcTBJWrsJBw==
+length: 1579
 -->
