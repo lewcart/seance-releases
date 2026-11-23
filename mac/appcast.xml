@@ -4,19 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.87</title>
-            <pubDate>Mon, 23 Nov 2026 08:09:38 +1000</pubDate>
-            <sparkle:version>0.3.87</sparkle:version>
-            <sparkle:shortVersionString>0.3.87</sparkle:shortVersionString>
+            <title>0.3.88</title>
+            <pubDate>Tue, 24 Nov 2026 01:54:48 +1000</pubDate>
+            <sparkle:version>0.3.88</sparkle:version>
+            <sparkle:shortVersionString>0.3.88</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Requests to the Mac app are no longer left waiting. Now and then a request (a key or a message passed on from a phone, a command from the command line) was not read for ten seconds and was then refused. The app now takes a request as soon as its line arrives.
-
-Séance's settings file no longer grows. A dead copy of the window's size was written at every launch, about 1 MB after two months of use, and every settings change had to sort through them. They are removed at the first launch and no more are made.
+            <description sparkle:format="markdown"><![CDATA[Live previews wait for a slow page. A page shown from another computer that could not keep up with its server lost its connection after about a megabyte. The Mac now tells the sender to wait, and keeps the connection alive while it does.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.87/Seance-0.3.87.dmg" length="101644288" type="application/octet-stream" sparkle:edSignature="Icn4aRUOtrzmbJJABBW1eAH7Td4+Zf/90TH6eAaZy0TD0z8SvdcoUybylqmAbBL3H5ti20DZ3iciW7vak0fzDg=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.88/Seance-0.3.88.dmg" length="101233367" type="application/octet-stream" sparkle:edSignature="mAGWtwOvylGKPTWbc/tGhsa306kGQezZvXn4PQzTuGGHj/GYDuWtdrg9kTCOwweOoXavdWH6aKvQ5yHycygNDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ipi29wjsw0vWiqZct5yehIlLwR4jrwuP5JdAuZ6W/8mOF/FpFIIhjop4rkxuYSVzs/iQov9xi9nliaTczIjKBQ==
-length: 1647
+edSignature: TYu1NU6VKn1U9R8wY9BDoFWu1JF5ba3mTu7w0Yp7wYaCscuxCBD1asIGtSzHszIgFU6k3X85keHiS48tgR0pCw==
+length: 1374
 -->
