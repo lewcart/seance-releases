@@ -4,17 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Seance</title>
         <item>
-            <title>0.3.88</title>
-            <pubDate>Tue, 24 Nov 2026 01:54:48 +1000</pubDate>
-            <sparkle:version>0.3.88</sparkle:version>
-            <sparkle:shortVersionString>0.3.88</sparkle:shortVersionString>
+            <title>0.3.90</title>
+            <pubDate>Sat, 28 Nov 2026 09:47:08 +1000</pubDate>
+            <sparkle:version>0.3.90</sparkle:version>
+            <sparkle:shortVersionString>0.3.90</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Live previews wait for a slow page. A page shown from another computer that could not keep up with its server lost its connection after about a megabyte. The Mac now tells the sender to wait, and keeps the connection alive while it does.
+            <description sparkle:format="markdown"><![CDATA[Chats come back by themselves after a restart. When the Mac restarts, or Séance stops unexpectedly, every chat that was open reopens with its conversation, without asking first. A chat that was in the middle of work carries on where it stopped. One that was waiting for your answer reopens at its question and is listed under Needs you. Archived chats stay closed. A message you had just sent that never reached the agent is sent once more when the chat is ready. A line at the bottom of the sidebar says what happened, for example "Reopened 4 chats, 1 carried on, 1 needs you".
+
+A chat whose terminal stops while its agent is still running is now kept as interrupted, ready to reopen, instead of being closed.
 ]]></description>
-            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.88/Seance-0.3.88.dmg" length="101233367" type="application/octet-stream" sparkle:edSignature="mAGWtwOvylGKPTWbc/tGhsa306kGQezZvXn4PQzTuGGHj/GYDuWtdrg9kTCOwweOoXavdWH6aKvQ5yHycygNDA=="></enclosure>
+            <enclosure url="https://github.com/lewcart/seance-releases/releases/download/mac-v0.3.90/Seance-0.3.90.dmg" length="103386918" type="application/octet-stream" sparkle:edSignature="o2W2xktxskqUcvE853rIg8GBo6FjoaQUypY4mnYg4cxD2gs5LyH6MkCePP5U27bdrlvLAYaICDa/imyNgupxBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TYu1NU6VKn1U9R8wY9BDoFWu1JF5ba3mTu7w0Yp7wYaCscuxCBD1asIGtSzHszIgFU6k3X85keHiS48tgR0pCw==
-length: 1374
+edSignature: u+xtCmtWRAHi9mSa1ZECfVEjtmBtN7HtDyS7+sAFAnFzRlOi/EMvvBVYeSXnte9Eap/RXAlisVyQFfYXewVVAQ==
+length: 1848
 -->
